@@ -8,6 +8,9 @@ on:
 permissions:
   contents: write
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   radar:
     runs-on: ubuntu-latest
@@ -19,7 +22,7 @@ jobs:
       - name: Run radar
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python -m agent_skill_radar.cli run --limit-per-query 10 --issue-limit 5
+        run: python -m agent_skill_radar.cli run --limit-per-query 8 --issue-limit 4
       - name: Commit report
         run: |
           git config user.name "github-actions[bot]"
