@@ -1,6 +1,6 @@
 # Agent Skill Radar
 
-Generated: `2026-05-25T04:09:43.978920+00:00`
+Generated: `2026-05-25T04:20:25.987858+00:00`
 
 A daily GitHub radar for AI agent skills, MCP servers, prompts, and agent-native developer tools.
 
@@ -8,31 +8,31 @@ A daily GitHub radar for AI agent skills, MCP servers, prompts, and agent-native
 
 | Rank | Repo | Score | Stage | Stars | Signal | Angle |
 |---:|---|---:|---|---:|---|---|
-| 1 | [safishamsi/graphify](https://github.com/safishamsi/graphify) | 100.0 | build-now | 53159 | large existing audience, recently active | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
-| 2 | [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | 95.0 | build-now | 26431 | large existing audience, recently active | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
-| 3 | [santifer/career-ops](https://github.com/santifer/career-ops) | 94.8 | build-now | 47072 | large existing audience, recently active | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
-| 4 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 93.9 | build-now | 45445 | large existing audience, recently active | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
-| 5 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | 93.2 | build-now | 15588 | large existing audience, recently active | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
+| 1 | [safishamsi/graphify](https://github.com/safishamsi/graphify) | 100.0 | build-now | 53161 | large existing audience, recently active | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
+| 2 | [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | 95.0 | build-now | 26435 | large existing audience, recently active | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
+| 3 | [santifer/career-ops](https://github.com/santifer/career-ops) | 94.8 | build-now | 47075 | large existing audience, recently active | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
+| 4 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 93.9 | build-now | 45446 | large existing audience, recently active | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
+| 5 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | 93.2 | build-now | 15590 | large existing audience, recently active | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
 | 6 | [getsentry/XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP) | 92.8 | build-now | 5733 | large existing audience, recently active | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
 | 7 | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | 90.6 | build-now | 19849 | large existing audience, recently active | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
-| 8 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 89.0 | build-now | 54835 | large existing audience, recently active | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
-| 9 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 87.0 | build-now | 51410 | large existing audience, recently active | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
-| 10 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 86.7 | build-now | 19011 | large existing audience, recently active | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
-| 11 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 86.4 | build-now | 30365 | large existing audience, recently active | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
+| 8 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 89.0 | build-now | 54836 | large existing audience, recently active | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
+| 9 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 87.0 | build-now | 51417 | large existing audience, recently active | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
+| 10 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 86.7 | build-now | 19012 | large existing audience, recently active | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
+| 11 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 86.4 | build-now | 30366 | large existing audience, recently active | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
 | 12 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | 86.0 | build-now | 44793 | large existing audience, recently active | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
-| 13 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 86.0 | build-now | 6851 | large existing audience, recently active | Build an agent-native CLI wrapper with JSON output, examples, and deterministic workflows. |
+| 13 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 86.0 | build-now | 6858 | large existing audience, recently active | Build an agent-native CLI wrapper with JSON output, examples, and deterministic workflows. |
 | 14 | [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) | 85.9 | build-now | 1263 | large existing audience, recently active | Build an MCP registry, security checker, config generator, or compatibility layer. |
 | 15 | [MicrosoftDocs/mcp](https://github.com/MicrosoftDocs/mcp) | 85.0 | build-now | 1657 | large existing audience, recently active | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
 | 16 | [moltis-org/moltis](https://github.com/moltis-org/moltis) | 84.4 | build-now | 2706 | large existing audience, recently active | Build an MCP registry, security checker, config generator, or compatibility layer. |
-| 17 | [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) | 83.9 | build-now | 8926 | large existing audience, strong stars-per-day proxy | Build an MCP registry, security checker, config generator, or compatibility layer. |
+| 17 | [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) | 83.9 | build-now | 8924 | large existing audience, strong stars-per-day proxy | Build an MCP registry, security checker, config generator, or compatibility layer. |
 | 18 | [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow) | 83.9 | build-now | 2223 | large existing audience, recently active | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
-| 19 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 83.7 | build-now | 64380 | large existing audience, recently active | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
-| 20 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 83.0 | build-now | 79904 | large existing audience, recently active | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
-| 21 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | 82.3 | build-now | 1987 | large existing audience, recently active | Build an MCP registry, security checker, config generator, or compatibility layer. |
+| 19 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 83.7 | build-now | 64383 | large existing audience, recently active | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
+| 20 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 83.0 | build-now | 79916 | large existing audience, recently active | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
+| 21 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | 82.3 | build-now | 1988 | large existing audience, recently active | Build an MCP registry, security checker, config generator, or compatibility layer. |
 | 22 | [NeoLabHQ/context-engineering-kit](https://github.com/NeoLabHQ/context-engineering-kit) | 79.6 | probe-this-week | 1037 | large existing audience, recently active | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
 | 23 | [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | 77.0 | probe-this-week | 46238 | large existing audience, recently active | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
 | 24 | [Meirtz/Awesome-Context-Engineering](https://github.com/Meirtz/Awesome-Context-Engineering) | 76.4 | probe-this-week | 3154 | large existing audience, recently active | Build a local context, memory, or compression add-on for coding agents. |
-| 25 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 76.2 | probe-this-week | 40117 | large existing audience, recently active | Build an agent-native CLI wrapper with JSON output, examples, and deterministic workflows. |
+| 25 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 76.2 | probe-this-week | 40118 | large existing audience, recently active | Build an agent-native CLI wrapper with JSON output, examples, and deterministic workflows. |
 
 ## Build Briefs
 
