@@ -1,0 +1,37 @@
+{
+  "queries": [
+    {
+      "label": "agent-skills",
+      "q": "agent skills AI coding stars:>50"
+    },
+    {
+      "label": "claude-code-skills",
+      "q": "claude code skills stars:>50"
+    },
+    {
+      "label": "codex-skills",
+      "q": "codex skills AI agent stars:>20"
+    },
+    {
+      "label": "mcp-tools",
+      "q": "MCP server agent tools stars:>100 created:>=2025-01-01"
+    },
+    {
+      "label": "agent-native-cli",
+      "q": "agent native CLI stars:>100 created:>=2025-01-01"
+    },
+    {
+      "label": "context-engineering",
+      "q": "context engineering agent coding stars:>100"
+    },
+    {
+      "label": "prompt-systems",
+      "q": "system prompts AI agents stars:>100 created:>=2024-01-01"
+    },
+    {
+      "label": "creator-automation",
+      "q": "AI content automation markdown obsidian creator stars:>20"
+    }
+  ]
+}
+

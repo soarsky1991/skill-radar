@@ -1,0 +1,37 @@
+[project]
+name = "agent-skill-radar"
+version = "0.1.0"
+description = "Daily GitHub radar for AI agent skills, MCP servers, prompts, and agent-native developer tools."
+readme = "README.md"
+requires-python = ">=3.9"
+license = "MIT"
+authors = [{ name = "Agent Skill Radar Maintainers" }]
+keywords = [
+  "agent-skills",
+  "github",
+  "mcp",
+  "ai-agents",
+  "trend-radar",
+  "indie-hacker",
+  "developer-tools"
+]
+classifiers = [
+  "Development Status :: 3 - Alpha",
+  "Environment :: Console",
+  "Intended Audience :: Developers",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.9",
+  "Programming Language :: Python :: 3.10",
+  "Topic :: Software Development",
+  "Topic :: Internet :: WWW/HTTP :: Indexing/Search"
+]
+
+[project.scripts]
+agent-skill-radar = "agent_skill_radar.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["agent_skill_radar*"]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
