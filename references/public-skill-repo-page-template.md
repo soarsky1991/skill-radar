@@ -8,6 +8,9 @@ Use this template for future public repos that spin out of Agent Skill Radar.
 - One-line promise: what the repo helps a builder do.
 - Proof line: the GitHub demand signal that justified the repo.
 - Primary CTA: install, run, star, or open an issue with a missing case.
+- Language switch: `中文 | English` anchors near the top.
+- Chinese first by default, because Chinese-speaking users are the primary monetization audience.
+- English must be complete, not a short summary, so the repo can still travel through the global open-source ecosystem.
 
 ## README Structure
 
@@ -18,6 +21,7 @@ Use this template for future public repos that spin out of Agent Skill Radar.
 5. Why this exists now, with links to public evidence.
 6. Roadmap limited to the next two weeks.
 7. Contribution path for missing repos, edge cases, and compatibility reports.
+8. Chinese monetization path when relevant: consulting, cohort, templates, tool service, or paid report.
 
 ## Repository Metadata
 
