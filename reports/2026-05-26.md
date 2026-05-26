@@ -1,10 +1,154 @@
 # Agent Skill Radar
 
+<p align="center">
+Languages: <a href="#zh-cn">简体中文</a> · <a href="#english">English</a>
+</p>
+
+<a id="zh-cn"></a>
+
+## 简体中文
+
+生成时间：`2026-05-26T06:21:25.015060+00:00`
+
+面向 AI agent skills、MCP servers、prompts 和 agent-native developer tools 的每日 GitHub 雷达。
+
+### 机会榜
+
+| 排名 | 仓库 | 分数 | 阶段 | Stars | 信号 | 构建角度 |
+|---:|---|---:|---|---:|---|---|
+| 1 | [safishamsi/graphify](https://github.com/safishamsi/graphify) | 100.0 | build-now | 53853 | 已有大受众，近期活跃 | 围绕该生态构建跨 agent skill index、installer 或质量 benchmark。 |
+| 2 | [santifer/career-ops](https://github.com/santifer/career-ops) | 100.0 | build-now | 47250 | 已有大受众，近期活跃 | 围绕该生态构建跨 agent skill index、installer 或质量 benchmark。 |
+| 3 | [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) | 95.0 | build-now | 26576 | 已有大受众，近期活跃 | 围绕该生态构建跨 agent skill index、installer 或质量 benchmark。 |
+| 4 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | 94.1 | build-now | 15690 | 已有大受众，近期活跃 | 围绕该生态构建跨 agent skill index、installer 或质量 benchmark。 |
+| 5 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 93.9 | build-now | 45787 | 已有大受众，近期活跃 | 围绕该生态构建跨 agent skill index、installer 或质量 benchmark。 |
+| 6 | [getsentry/XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP) | 92.9 | build-now | 5744 | 已有大受众，近期活跃 | 围绕该生态构建跨 agent skill index、installer 或质量 benchmark。 |
+| 7 | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | 90.6 | build-now | 19958 | 已有大受众，近期活跃 | 围绕该生态构建跨 agent skill index、installer 或质量 benchmark。 |
+| 8 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 89.0 | build-now | 55177 | 已有大受众，近期活跃 | 围绕该生态构建跨 agent skill index、installer 或质量 benchmark。 |
+| 9 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 88.6 | build-now | 20086 | 已有大受众，近期活跃 | 围绕该生态构建跨 agent skill index、installer 或质量 benchmark。 |
+| 10 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 87.3 | build-now | 30524 | 已有大受众，近期活跃 | 围绕该生态构建跨 agent skill index、installer 或质量 benchmark。 |
+| 11 | [nexu-io/open-design](https://github.com/nexu-io/open-design) | 87.0 | build-now | 52331 | 已有大受众，近期活跃 | 围绕该生态构建跨 agent skill index、installer 或质量 benchmark。 |
+| 12 | [apify/apify-mcp-server](https://github.com/apify/apify-mcp-server) | 86.1 | build-now | 1268 | 已有大受众，近期活跃 | 构建 MCP registry、security checker、config generator 或 compatibility layer。 |
+| 13 | [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent) | 86.0 | build-now | 44839 | 已有大受众，近期活跃 | 围绕该生态构建跨 agent skill index、installer 或质量 benchmark。 |
+| 14 | [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) | 86.0 | build-now | 8989 | 已有大受众，近期活跃 | 构建带 JSON 输出、示例和确定性工作流的 agent-native CLI wrapper。 |
+| 15 | [MicrosoftDocs/mcp](https://github.com/MicrosoftDocs/mcp) | 84.9 | build-now | 1659 | 已有大受众，近期活跃 | 围绕该生态构建跨 agent skill index、installer 或质量 benchmark。 |
+| 16 | [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow) | 84.6 | build-now | 2230 | 已有大受众，近期活跃 | 围绕该生态构建跨 agent skill index、installer 或质量 benchmark。 |
+| 17 | [moltis-org/moltis](https://github.com/moltis-org/moltis) | 84.4 | build-now | 2707 | 已有大受众，近期活跃 | 构建 MCP registry、security checker、config generator 或 compatibility layer。 |
+| 18 | [taracodlabs/aiden](https://github.com/taracodlabs/aiden) | 84.0 | build-now | 397 | 已有大受众，近期活跃 | 围绕该生态构建跨 agent skill index、installer 或质量 benchmark。 |
+| 19 | [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) | 83.8 | build-now | 8941 | 已有大受众，stars/day 代理指标强 | 构建 MCP registry、security checker、config generator 或 compatibility layer。 |
+| 20 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 83.6 | build-now | 64802 | 已有大受众，近期活跃 | 围绕该生态构建跨 agent skill index、installer 或质量 benchmark。 |
+| 21 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 83.0 | build-now | 81051 | 已有大受众，近期活跃 | 围绕该生态构建跨 agent skill index、installer 或质量 benchmark。 |
+| 22 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | 82.3 | build-now | 2019 | 已有大受众，近期活跃 | 构建 MCP registry、security checker、config generator 或 compatibility layer。 |
+| 23 | [NeoLabHQ/context-engineering-kit](https://github.com/NeoLabHQ/context-engineering-kit) | 79.5 | probe-this-week | 1040 | 已有大受众，近期活跃 | 围绕该生态构建跨 agent skill index、installer 或质量 benchmark。 |
+| 24 | [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | 77.0 | probe-this-week | 46302 | 已有大受众，近期活跃 | 围绕该生态构建跨 agent skill index、installer 或质量 benchmark。 |
+| 25 | [Meirtz/Awesome-Context-Engineering](https://github.com/Meirtz/Awesome-Context-Engineering) | 76.3 | probe-this-week | 3154 | 已有大受众，近期活跃 | 为 coding agents 构建本地 context、memory 或 compression add-on。 |
+
+### 构建简报
+
+#### safishamsi/graphify
+
+- URL: https://github.com/safishamsi/graphify
+- Score: 100.0 (build-now)
+- 为什么现在值得看：已有大受众，近期活跃，stars/day 代理指标强，issue 讨论显示需求，生态具备扩展形态，适合创作者/工具分发，生态仍新，存在空位
+- 构建角度：围绕该生态构建跨 agent skill index、installer 或质量 benchmark。
+- 快速验证：发布一页 demo README，询问维护者/用户这个 companion tool 是否应该存在，再发 3 条中立的 fake-door 评论或帖子。
+- Issue 样本：
+  - [codex not support additionalContext on PreToolUse](https://github.com/safishamsi/graphify/issues/533) (10 comments, 9 reactions)
+  - [[Feature Request] Enhancing Local LLM Performance (Ollama) & High-Core CPU Scaling via graphify.yaml](https://github.com/safishamsi/graphify/issues/792) (8 comments, 0 reactions)
+  - [Antigravity's Graphify skill uses pip to install graphifyy instead of uv, even when uv is available and graphify was installed with uv](https://github.com/safishamsi/graphify/issues/831) (8 comments, 0 reactions)
+
+#### santifer/career-ops
+
+- URL: https://github.com/santifer/career-ops
+- Score: 100.0 (build-now)
+- 为什么现在值得看：已有大受众，近期活跃，stars/day 代理指标强，issue 讨论显示需求，生态具备扩展形态，生态仍新，存在空位
+- 构建角度：围绕该生态构建跨 agent skill index、installer 或质量 benchmark。
+- 快速验证：发布一页 demo README，询问维护者/用户这个 companion tool 是否应该存在，再发 3 条中立的 fake-door 评论或帖子。
+- Issue 样本：
+  - [Feature: Persistent portal sessions with auto-login (like linkedin-mcp-server)](https://github.com/santifer/career-ops/issues/238) (10 comments, 0 reactions)
+  - [Need Support for an alternative websearch tool apart from EXA](https://github.com/santifer/career-ops/issues/277) (8 comments, 0 reactions)
+  - [v1.7.0: dangling symlink at .claude/skills/career-ops/SKILL.md breaks /career-ops](https://github.com/santifer/career-ops/issues/596) (5 comments, 0 reactions)
+
+#### iOfficeAI/AionUi
+
+- URL: https://github.com/iOfficeAI/AionUi
+- Score: 95.0 (build-now)
+- 为什么现在值得看：已有大受众，近期活跃，stars/day 代理指标强，issue 讨论显示需求，生态具备扩展形态，生态仍新，存在空位
+- 构建角度：围绕该生态构建跨 agent skill index、installer 或质量 benchmark。
+- 快速验证：发布一页 demo README，询问维护者/用户这个 companion tool 是否应该存在，再发 3 条中立的 fake-door 评论或帖子。
+- Issue 样本：
+  - [[Feature]: Support remote ACP connections (network/SSH) — not just local stdio](https://github.com/iOfficeAI/AionUi/issues/2721) (4 comments, 3 reactions)
+  - [[Feature]: 支持自己安装geminicli作为agent](https://github.com/iOfficeAI/AionUi/issues/2661) (6 comments, 1 reactions)
+
+#### mksglu/context-mode
+
+- URL: https://github.com/mksglu/context-mode
+- Score: 94.1 (build-now)
+- 为什么现在值得看：已有大受众，近期活跃，stars/day 代理指标强，issue 讨论显示需求，生态具备扩展形态，生态仍新，存在空位
+- 构建角度：围绕该生态构建跨 agent skill index、installer 或质量 benchmark。
+- 快速验证：发布一页 demo README，询问维护者/用户这个 companion tool 是否应该存在，再发 3 条中立的 fake-door 评论或帖子。
+- Issue 样本：
+  - [Dynamic require of "node:fs" is not supported](https://github.com/mksglu/context-mode/issues/511) (11 comments, 4 reactions)
+  - [v1.0.146: plugin.json points to wrong skills path and stale MCP server path](https://github.com/mksglu/context-mode/issues/658) (9 comments, 0 reactions)
+
+#### addyosmani/agent-skills
+
+- URL: https://github.com/addyosmani/agent-skills
+- Score: 93.9 (build-now)
+- 为什么现在值得看：已有大受众，近期活跃，stars/day 代理指标强，生态具备扩展形态，生态仍新，存在空位
+- 构建角度：围绕该生态构建跨 agent skill index、installer 或质量 benchmark。
+- 快速验证：发布一页 demo README，询问维护者/用户这个 companion tool 是否应该存在，再发 3 条中立的 fake-door 评论或帖子。
+- Issue 样本：
+  - [SKILL.md files reference non-existent scripts](https://github.com/addyosmani/agent-skills/issues/136) (3 comments, 1 reactions)
+  - [[issue] codex not reading incremental-implementation, test-driven-development, context-engineering skills defined in phase 4 of skills/spec-driven-development/SKILL.md](https://github.com/addyosmani/agent-skills/issues/67) (2 comments, 0 reactions)
+
+#### getsentry/XcodeBuildMCP
+
+- URL: https://github.com/getsentry/XcodeBuildMCP
+- Score: 92.9 (build-now)
+- 为什么现在值得看：已有大受众，近期活跃，stars/day 代理指标强，issue 讨论显示需求，生态具备扩展形态
+- 构建角度：围绕该生态构建跨 agent skill index、installer 或质量 benchmark。
+- 快速验证：发布一页 demo README，询问维护者/用户这个 companion tool 是否应该存在，再发 3 条中立的 fake-door 评论或帖子。
+- Issue 样本：
+  - [[Feature]: Stream simulator logs live during or after build-and-run](https://github.com/getsentry/XcodeBuildMCP/issues/354) (3 comments, 0 reactions)
+  - [[Feature]: Multiple configs?](https://github.com/getsentry/XcodeBuildMCP/issues/371) (3 comments, 0 reactions)
+  - [[Proposal]: Consolidate around CLI and deprecate MCP](https://github.com/getsentry/XcodeBuildMCP/issues/355) (3 comments, 0 reactions)
+
+#### Donchitos/Claude-Code-Game-Studios
+
+- URL: https://github.com/Donchitos/Claude-Code-Game-Studios
+- Score: 90.6 (build-now)
+- 为什么现在值得看：已有大受众，近期活跃，stars/day 代理指标强，生态具备扩展形态，生态仍新，存在空位
+- 构建角度：围绕该生态构建跨 agent skill index、installer 或质量 benchmark。
+- 快速验证：发布一页 demo README，询问维护者/用户这个 companion tool 是否应该存在，再发 3 条中立的 fake-door 评论或帖子。
+- Issue 样本：
+  - [[Feature Contribution] tools/ — vendor asset-generator backends (branch ready)](https://github.com/Donchitos/Claude-Code-Game-Studios/issues/23) (5 comments, 3 reactions)
+
+#### ruvnet/ruflo
+
+- URL: https://github.com/ruvnet/ruflo
+- Score: 89.0 (build-now)
+- 为什么现在值得看：已有大受众，近期活跃，stars/day 代理指标强，issue 讨论显示需求，生态具备扩展形态，生态仍新，存在空位
+- 构建角度：围绕该生态构建跨 agent skill index、installer 或质量 benchmark。
+- 快速验证：发布一页 demo README，询问维护者/用户这个 companion tool 是否应该存在，再发 3 条中立的 fake-door 评论或帖子。
+- Issue 样本：
+  - [RuFlo Research (goal.ruv.io) — integration roadmap](https://github.com/ruvnet/ruflo/issues/1692) (25 comments, 0 reactions)
+  - [[verification] MEDIUM — CI workflow run status unverifiable in scheduled check](https://github.com/ruvnet/ruflo/issues/1926) (16 comments, 0 reactions)
+
+### 运营备注
+
+- 优先做窄的 companion tools，而不是直接 fork 上游项目。
+- Stars 来自实用性和重复分发：每日报告、demo、issue 回复和短内容。
+- 高分只是 probe 的理由，不是立刻做大产品的证明。
+
+<a id="english"></a>
+
+## English
+
 Generated: `2026-05-26T06:21:25.015060+00:00`
 
 A daily GitHub radar for AI agent skills, MCP servers, prompts, and agent-native developer tools.
 
-## Top Opportunities
+### Top Opportunities
 
 | Rank | Repo | Score | Stage | Stars | Signal | Angle |
 |---:|---|---:|---|---:|---|---|
@@ -34,9 +178,9 @@ A daily GitHub radar for AI agent skills, MCP servers, prompts, and agent-native
 | 24 | [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | 77.0 | probe-this-week | 46302 | large existing audience, recently active | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
 | 25 | [Meirtz/Awesome-Context-Engineering](https://github.com/Meirtz/Awesome-Context-Engineering) | 76.3 | probe-this-week | 3154 | large existing audience, recently active | Build a local context, memory, or compression add-on for coding agents. |
 
-## Build Briefs
+### Build Briefs
 
-### safishamsi/graphify
+#### safishamsi/graphify
 
 - URL: https://github.com/safishamsi/graphify
 - Score: 100.0 (build-now)
@@ -48,7 +192,7 @@ A daily GitHub radar for AI agent skills, MCP servers, prompts, and agent-native
   - [[Feature Request] Enhancing Local LLM Performance (Ollama) & High-Core CPU Scaling via graphify.yaml](https://github.com/safishamsi/graphify/issues/792) (8 comments, 0 reactions)
   - [Antigravity's Graphify skill uses pip to install graphifyy instead of uv, even when uv is available and graphify was installed with uv](https://github.com/safishamsi/graphify/issues/831) (8 comments, 0 reactions)
 
-### santifer/career-ops
+#### santifer/career-ops
 
 - URL: https://github.com/santifer/career-ops
 - Score: 100.0 (build-now)
@@ -60,7 +204,7 @@ A daily GitHub radar for AI agent skills, MCP servers, prompts, and agent-native
   - [Need Support for an alternative websearch tool apart from EXA](https://github.com/santifer/career-ops/issues/277) (8 comments, 0 reactions)
   - [v1.7.0: dangling symlink at .claude/skills/career-ops/SKILL.md breaks /career-ops](https://github.com/santifer/career-ops/issues/596) (5 comments, 0 reactions)
 
-### iOfficeAI/AionUi
+#### iOfficeAI/AionUi
 
 - URL: https://github.com/iOfficeAI/AionUi
 - Score: 95.0 (build-now)
@@ -71,7 +215,7 @@ A daily GitHub radar for AI agent skills, MCP servers, prompts, and agent-native
   - [[Feature]: Support remote ACP connections (network/SSH) — not just local stdio](https://github.com/iOfficeAI/AionUi/issues/2721) (4 comments, 3 reactions)
   - [[Feature]: 支持自己安装geminicli作为agent](https://github.com/iOfficeAI/AionUi/issues/2661) (6 comments, 1 reactions)
 
-### mksglu/context-mode
+#### mksglu/context-mode
 
 - URL: https://github.com/mksglu/context-mode
 - Score: 94.1 (build-now)
@@ -82,7 +226,7 @@ A daily GitHub radar for AI agent skills, MCP servers, prompts, and agent-native
   - [Dynamic require of "node:fs" is not supported](https://github.com/mksglu/context-mode/issues/511) (11 comments, 4 reactions)
   - [v1.0.146: plugin.json points to wrong skills path and stale MCP server path](https://github.com/mksglu/context-mode/issues/658) (9 comments, 0 reactions)
 
-### addyosmani/agent-skills
+#### addyosmani/agent-skills
 
 - URL: https://github.com/addyosmani/agent-skills
 - Score: 93.9 (build-now)
@@ -93,7 +237,7 @@ A daily GitHub radar for AI agent skills, MCP servers, prompts, and agent-native
   - [SKILL.md files reference non-existent scripts](https://github.com/addyosmani/agent-skills/issues/136) (3 comments, 1 reactions)
   - [[issue] codex not reading incremental-implementation, test-driven-development, context-engineering skills defined in phase 4 of skills/spec-driven-development/SKILL.md](https://github.com/addyosmani/agent-skills/issues/67) (2 comments, 0 reactions)
 
-### getsentry/XcodeBuildMCP
+#### getsentry/XcodeBuildMCP
 
 - URL: https://github.com/getsentry/XcodeBuildMCP
 - Score: 92.9 (build-now)
@@ -105,7 +249,7 @@ A daily GitHub radar for AI agent skills, MCP servers, prompts, and agent-native
   - [[Feature]: Multiple configs?](https://github.com/getsentry/XcodeBuildMCP/issues/371) (3 comments, 0 reactions)
   - [[Proposal]: Consolidate around CLI and deprecate MCP](https://github.com/getsentry/XcodeBuildMCP/issues/355) (3 comments, 0 reactions)
 
-### Donchitos/Claude-Code-Game-Studios
+#### Donchitos/Claude-Code-Game-Studios
 
 - URL: https://github.com/Donchitos/Claude-Code-Game-Studios
 - Score: 90.6 (build-now)
@@ -115,7 +259,7 @@ A daily GitHub radar for AI agent skills, MCP servers, prompts, and agent-native
 - Issue sample:
   - [[Feature Contribution] tools/ — vendor asset-generator backends (branch ready)](https://github.com/Donchitos/Claude-Code-Game-Studios/issues/23) (5 comments, 3 reactions)
 
-### ruvnet/ruflo
+#### ruvnet/ruflo
 
 - URL: https://github.com/ruvnet/ruflo
 - Score: 89.0 (build-now)
@@ -126,7 +270,7 @@ A daily GitHub radar for AI agent skills, MCP servers, prompts, and agent-native
   - [RuFlo Research (goal.ruv.io) — integration roadmap](https://github.com/ruvnet/ruflo/issues/1692) (25 comments, 0 reactions)
   - [[verification] MEDIUM — CI workflow run status unverifiable in scheduled check](https://github.com/ruvnet/ruflo/issues/1926) (16 comments, 0 reactions)
 
-## Operator Notes
+### Operator Notes
 
 - Prefer narrow companion tools over upstream forks.
 - Stars follow utility plus repeated distribution: daily report, demo GIF, issue replies, and short-form posts.
