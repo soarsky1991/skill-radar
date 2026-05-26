@@ -1,12 +1,16 @@
 # Agent Skill Radar
 
-[中文](#中文) | [English](#english)
+<p align="center">
+Languages: <a href="#zh-cn">简体中文</a> · <a href="#english">English</a>
+</p>
 
 [![Daily Radar](https://github.com/soarsky1991/skill-radar/actions/workflows/daily-radar.yml/badge.svg)](https://github.com/soarsky1991/skill-radar/actions/workflows/daily-radar.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Stars](https://img.shields.io/github/stars/soarsky1991/skill-radar?style=social)](https://github.com/soarsky1991/skill-radar/stargazers)
 
-## 中文
+<a id="zh-cn"></a>
+
+## 简体中文
 
 **面向 AI agent skills、MCP servers、prompts 和 agent-native developer tools 的每日 GitHub 雷达。**
 
@@ -149,6 +153,8 @@ agent-skill-radar collect \
 - 能证明真实需求的 issue、discussion 或 release 证据。
 
 小而具体、有证据的建议最有价值。
+
+<a id="english"></a>
 
 ## English
 

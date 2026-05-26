@@ -1,8 +1,10 @@
 # Launch Post Draft
 
-[中文](#中文) | [English](#english)
+Languages: [简体中文](#zh-cn) · [English](#english)
 
-## 中文
+<a id="zh-cn"></a>
+
+## 简体中文
 
 我最近反复看到一个问题：
 
@@ -24,6 +26,8 @@ Repo: https://github.com/soarsky1991/skill-radar
 Latest report: https://github.com/soarsky1991/skill-radar/blob/main/reports/latest.md
 
 如果你知道应该被追踪的仓库或生态，欢迎开 issue。
+
+<a id="english"></a>
 
 ## English
 
