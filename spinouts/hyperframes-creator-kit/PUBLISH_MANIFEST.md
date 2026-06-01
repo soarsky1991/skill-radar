@@ -14,7 +14,7 @@ Published files:
 - `research/github-tutorial-repo-patterns-2026-06-01.md` - high-star tutorial repo research and committee design.
 - `templates/tutorial-repo-blueprint.md` - standalone repo README and launch blueprint.
 
-GitHub commits:
+Initial GitHub commits:
 
 - `3409b0701b17d8d7ae941291ec5c4fc695d871fa` - Add HyperFrames creator kit overview.
 - `89d461615afe30cc7682811eb542905860680e32` - Add HyperFrames creator kit skill.
