@@ -10,9 +10,16 @@ Published location:
 Published files:
 
 - `README.md` - overview, positioning, committee, first-week plan.
+- `START_HERE.zh-CN.md` - 10-minute first-run learning path.
 - `SKILL.md` - reusable HyperFrames creator workflow skill.
+- `skills/hyperframes-creator-kit/SKILL.md` - install-friendly mirrored skill path.
+- `lessons/lesson-01-proof-driven-30s-video/README.md` - first proof-driven lesson.
+- `CONTRIBUTING.md` - contribution rules and small first contribution ideas.
+- `ROADMAP.md` - 8-week MVP and 16-week standalone growth path.
+- `GROWTH_PLAYBOOK.zh-CN.md` - high-star tutorial repo growth patterns and launch strategy.
 - `research/github-tutorial-repo-patterns-2026-06-01.md` - high-star tutorial repo research and committee design.
 - `templates/tutorial-repo-blueprint.md` - standalone repo README and launch blueprint.
+- `templates/publishing-pack.md` - video publishing pack template.
 
 Initial GitHub commits:
 
@@ -32,3 +39,8 @@ Validation:
 Limitation:
 
 - The GitHub connector available in this session can write to existing repositories, but did not expose a create-new-repository action. This first public version was therefore published as a spinout directory inside the existing public `skill-radar` repo. The standalone repo name recommendation remains `hyperframes-creator-kit`.
+
+2026-06-01 expansion:
+
+- Added a tutorial-repo skeleton on top of the first spinout: Start Here, Lesson 01, Contributing, Roadmap, Growth Playbook, Publishing Pack, and install-friendly skill path.
+- Standalone repository creation is still blocked on GitHub CLI login or a connector action that can create repositories.
