@@ -26,7 +26,7 @@ Validation:
 
 - Pulled `soarsky1991/skill-radar` after publication.
 - Confirmed local artifact folder and pulled GitHub folder have no file diffs.
-- Ran `git diff --check HEAD~5..HEAD` in the pulled repo with no whitespace errors.
+- Ran `git diff --check` over the published HyperFrames commit range with no whitespace errors.
 - Confirmed the public GitHub directory is reachable in browser.
 
 Limitation:
