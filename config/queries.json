@@ -31,7 +31,10 @@
     {
       "label": "creator-automation",
       "q": "AI content automation markdown obsidian creator stars:>20"
+    },
+    {
+      "label": "social-data-skills",
+      "q": "twitter scraper api skill"
     }
   ]
 }
-
