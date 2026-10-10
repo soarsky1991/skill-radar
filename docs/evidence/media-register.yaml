@@ -1,0 +1,29 @@
+schema: source-evidence-register/v1
+captured_at: "2026-08-25T15:15:28+08:00"
+items:
+  - id: RADAR-TERM-01
+    type: source_evidence
+    source_path: docs/evidence/source/terminal-fixed-date-replay.png
+    source_sha256: c401b96c52f45410ba039ec4cc5093eb4b488b172d9f1a7d92ac1a3469226b87
+    capture_environment: macOS Terminal
+    public_derivative_path: docs/assets/terminal-fixed-date-replay.png
+    public_derivative_sha256: 5b85eb2f3ef16a3215f7c2633326b92ede361bad01fcad84127fa4caec30f159
+    transform: "crop 1600x500 at +40+35, then proportional resize to 1280x400; no text or result changed"
+    privacy_review: passed_no_token_account_private_path_or_unrelated_window
+    look_here: "Wrote line, PASS line, and BOUNDARY line"
+    supports:
+      - "the committed 2026-08-25 JSON rendered locally into Markdown"
+      - "the rendered Markdown matched the committed 2026-08-25 report in this environment"
+    does_not_support:
+      - "a live GitHub collection or present upstream state"
+      - "forecast accuracy, adoption, demand, or commercial results"
+  - id: RADAR-SOCIAL-01
+    type: generated_visual
+    source_path: docs/assets/social-preview.png
+    source_sha256: d71c0a8d87eaaf4a3d2e87d245ccad4d4cce8f8a6c542631911565e60770c545
+    dimensions: 1280x640
+    privacy_review: passed_no_personal_data_or_real_interface
+    supports:
+      - "a visual metaphor for radar, evidence review, and reusable delivery"
+    does_not_support:
+      - "a real terminal run, GitHub interface, metric, user outcome, or endorsement"
