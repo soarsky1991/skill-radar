@@ -8,7 +8,7 @@ Languages: <a href="#zh-cn">简体中文</a> · <a href="#english">English</a>
 
 ## 简体中文
 
-生成时间：`2026-10-10T08:38:11.784225+00:00`
+生成时间：`2026-10-11T09:02:33.489530+00:00`
 
 面向 AI agent skills、MCP servers、prompts 和 agent-native developer tools 的每日 GitHub 雷达。
 
@@ -16,31 +16,31 @@ Languages: <a href="#zh-cn">简体中文</a> · <a href="#english">English</a>
 
 | 排名 | 仓库 | 分数 | 阶段 | Stars | 信号 | 构建角度 |
 |---:|---|---:|---|---:|---|---|
-| 1 | [morluto/rea](https://github.com/morluto/rea) | 97.0 | build-now | 56431 | 已有大受众，近期活跃 | 围绕该生态构建跨 agent skill index、installer 或质量 benchmark。 |
-| 2 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 93.9 | build-now | 48227 | 已有大受众，近期活跃 | 围绕该生态构建跨 agent skill index、installer 或质量 benchmark。 |
-| 3 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 91.0 | build-now | 104223 | 已有大受众，近期活跃 | 围绕该生态构建跨 agent skill index、installer 或质量 benchmark。 |
-| 4 | [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) | 87.4 | build-now | 11449 | 已有大受众，近期活跃 | 围绕该生态构建跨 agent skill index、installer 或质量 benchmark。 |
-| 5 | [repoprompt/repoprompt-ce](https://github.com/repoprompt/repoprompt-ce) | 87.3 | build-now | 946 | 已有大受众，近期活跃 | 构建 MCP registry、security checker、config generator 或 compatibility layer。 |
-| 6 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 87.0 | build-now | 81435 | 已有大受众，近期活跃 | 围绕该生态构建跨 agent skill index、installer 或质量 benchmark。 |
-| 7 | [MicrosoftDocs/mcp](https://github.com/MicrosoftDocs/mcp) | 87.0 | build-now | 1935 | 已有大受众，近期活跃 | 围绕该生态构建跨 agent skill index、installer 或质量 benchmark。 |
-| 8 | [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow) | 86.2 | build-now | 2909 | 已有大受众，近期活跃 | 围绕该生态构建跨 agent skill index、installer 或质量 benchmark。 |
-| 9 | [raullenchai/Rapid-MLX](https://github.com/raullenchai/Rapid-MLX) | 86.0 | build-now | 3953 | 已有大受众，近期活跃 | 构建 MCP registry、security checker、config generator 或 compatibility layer。 |
-| 10 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 85.9 | build-now | 94227 | 已有大受众，近期活跃 | 围绕该生态构建跨 agent skill index、installer 或质量 benchmark。 |
-| 11 | [Nanako0129/sepia](https://github.com/Nanako0129/sepia) | 85.4 | build-now | 3071 | 已有大受众，近期活跃 | 围绕该生态构建跨 agent skill index、installer 或质量 benchmark。 |
-| 12 | [AMAP-ML/LongHorizon-Harness](https://github.com/AMAP-ML/LongHorizon-Harness) | 84.4 | build-now | 1715 | 已有大受众，stars/day 代理指标强 | 构建 MCP registry、security checker、config generator 或 compatibility layer。 |
-| 13 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 84.3 | build-now | 53974 | 已有大受众，近期活跃 | 围绕该生态构建跨 agent skill index、installer 或质量 benchmark。 |
-| 14 | [moltis-org/moltis](https://github.com/moltis-org/moltis) | 83.5 | build-now | 2884 | 已有大受众，近期活跃 | 构建 MCP registry、security checker、config generator 或 compatibility layer。 |
-| 15 | [getsentry/MobileBuildMCP](https://github.com/getsentry/MobileBuildMCP) | 83.4 | build-now | 6471 | 已有大受众，近期活跃 | 构建 MCP registry、security checker、config generator 或 compatibility layer。 |
-| 16 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 83.1 | build-now | 110827 | 已有大受众，近期活跃 | 围绕该生态构建跨 agent skill index、installer 或质量 benchmark。 |
-| 17 | [microsoft/intelligent-terminal](https://github.com/microsoft/intelligent-terminal) | 82.7 | build-now | 2045 | 已有大受众，近期活跃 | 构建 MCP registry、security checker、config generator 或 compatibility layer。 |
-| 18 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 82.0 | build-now | 142196 | 已有大受众，近期活跃 | 围绕该生态构建跨 agent skill index、installer 或质量 benchmark。 |
-| 19 | [LetsFG/LetsFG](https://github.com/LetsFG/LetsFG) | 81.5 | build-now | 2129 | 已有大受众，近期活跃 | 构建 MCP registry、security checker、config generator 或 compatibility layer。 |
-| 20 | [NeoLabHQ/context-engineering-kit](https://github.com/NeoLabHQ/context-engineering-kit) | 80.4 | build-now | 1751 | 已有大受众，stars/day 代理指标强 | 围绕该生态构建跨 agent skill index、installer 或质量 benchmark。 |
-| 21 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 80.2 | build-now | 276146 | 已有大受众，近期活跃 | 围绕该生态构建跨 agent skill index、installer 或质量 benchmark。 |
-| 22 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 80.0 | build-now | 83619 | 已有大受众，近期活跃 | 围绕该生态构建跨 agent skill index、installer 或质量 benchmark。 |
-| 23 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 80.0 | build-now | 74227 | 已有大受众，近期活跃 | 围绕该生态构建跨 agent skill index、installer 或质量 benchmark。 |
-| 24 | [samugit83/redamon](https://github.com/samugit83/redamon) | 79.8 | probe-this-week | 2983 | 已有大受众，近期活跃 | 围绕该生态构建跨 agent skill index、installer 或质量 benchmark。 |
-| 25 | [tigicion/dao-code](https://github.com/tigicion/dao-code) | 79.6 | probe-this-week | 1083 | 已有大受众，近期活跃 | 围绕该生态构建跨 agent skill index、installer 或质量 benchmark。 |
+| 1 | [morluto/rea](https://github.com/morluto/rea) | 97.0 | build-now | 82144 | 已有大受众，近期活跃 | 围绕该生态构建跨 agent skill index、installer 或质量 benchmark。 |
+| 2 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 93.8 | build-now | 48337 | 已有大受众，近期活跃 | 围绕该生态构建跨 agent skill index、installer 或质量 benchmark。 |
+| 3 | [repoprompt/repoprompt-ce](https://github.com/repoprompt/repoprompt-ce) | 92.2 | build-now | 949 | 已有大受众，近期活跃 | 构建 MCP registry、security checker、config generator 或 compatibility layer。 |
+| 4 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 90.9 | build-now | 104632 | 已有大受众，近期活跃 | 围绕该生态构建跨 agent skill index、installer 或质量 benchmark。 |
+| 5 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 87.0 | build-now | 81807 | 已有大受众，近期活跃 | 围绕该生态构建跨 agent skill index、installer 或质量 benchmark。 |
+| 6 | [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) | 86.3 | build-now | 11488 | 已有大受众，近期活跃 | 围绕该生态构建跨 agent skill index、installer 或质量 benchmark。 |
+| 7 | [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow) | 86.1 | build-now | 2910 | 已有大受众，近期活跃 | 围绕该生态构建跨 agent skill index、installer 或质量 benchmark。 |
+| 8 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 85.9 | build-now | 94530 | 已有大受众，近期活跃 | 围绕该生态构建跨 agent skill index、installer 或质量 benchmark。 |
+| 9 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 85.5 | build-now | 54120 | 已有大受众，近期活跃 | 围绕该生态构建跨 agent skill index、installer 或质量 benchmark。 |
+| 10 | [Nanako0129/sepia](https://github.com/Nanako0129/sepia) | 85.3 | build-now | 3080 | 已有大受众，近期活跃 | 围绕该生态构建跨 agent skill index、installer 或质量 benchmark。 |
+| 11 | [AMAP-ML/LongHorizon-Harness](https://github.com/AMAP-ML/LongHorizon-Harness) | 84.3 | build-now | 1717 | 已有大受众，stars/day 代理指标强 | 构建 MCP registry、security checker、config generator 或 compatibility layer。 |
+| 12 | [moltis-org/moltis](https://github.com/moltis-org/moltis) | 83.4 | build-now | 2884 | 已有大受众，近期活跃 | 构建 MCP registry、security checker、config generator 或 compatibility layer。 |
+| 13 | [getsentry/MobileBuildMCP](https://github.com/getsentry/MobileBuildMCP) | 83.2 | build-now | 6474 | 已有大受众，近期活跃 | 构建 MCP registry、security checker、config generator 或 compatibility layer。 |
+| 14 | [samugit83/redamon](https://github.com/samugit83/redamon) | 83.2 | build-now | 2988 | 已有大受众，近期活跃 | 围绕该生态构建跨 agent skill index、installer 或质量 benchmark。 |
+| 15 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 83.1 | build-now | 110964 | 已有大受众，近期活跃 | 围绕该生态构建跨 agent skill index、installer 或质量 benchmark。 |
+| 16 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 83.0 | build-now | 74991 | 已有大受众，近期活跃 | 构建 MCP registry、security checker、config generator 或 compatibility layer。 |
+| 17 | [microsoft/intelligent-terminal](https://github.com/microsoft/intelligent-terminal) | 82.7 | build-now | 2046 | 已有大受众，近期活跃 | 构建 MCP registry、security checker、config generator 或 compatibility layer。 |
+| 18 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 82.0 | build-now | 142624 | 已有大受众，近期活跃 | 围绕该生态构建跨 agent skill index、installer 或质量 benchmark。 |
+| 19 | [raullenchai/Rapid-MLX](https://github.com/raullenchai/Rapid-MLX) | 81.9 | build-now | 3959 | 已有大受众，近期活跃 | 构建 MCP registry、security checker、config generator 或 compatibility layer。 |
+| 20 | [LetsFG/LetsFG](https://github.com/LetsFG/LetsFG) | 81.7 | build-now | 2135 | 已有大受众，近期活跃 | 构建 MCP registry、security checker、config generator 或 compatibility layer。 |
+| 21 | [NeoLabHQ/context-engineering-kit](https://github.com/NeoLabHQ/context-engineering-kit) | 80.3 | build-now | 1751 | 已有大受众，stars/day 代理指标强 | 围绕该生态构建跨 agent skill index、installer 或质量 benchmark。 |
+| 22 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 80.2 | build-now | 276730 | 已有大受众，近期活跃 | 围绕该生态构建跨 agent skill index、installer 或质量 benchmark。 |
+| 23 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 80.0 | build-now | 83676 | 已有大受众，近期活跃 | 围绕该生态构建跨 agent skill index、installer 或质量 benchmark。 |
+| 24 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 80.0 | build-now | 74314 | 已有大受众，近期活跃 | 围绕该生态构建跨 agent skill index、installer 或质量 benchmark。 |
+| 25 | [tigicion/dao-code](https://github.com/tigicion/dao-code) | 79.5 | probe-this-week | 1082 | 已有大受众，近期活跃 | 围绕该生态构建跨 agent skill index、installer 或质量 benchmark。 |
 
 ### 构建简报
 
@@ -52,14 +52,14 @@ Languages: <a href="#zh-cn">简体中文</a> · <a href="#english">English</a>
 - 构建角度：围绕该生态构建跨 agent skill index、installer 或质量 benchmark。
 - 快速验证：发布一页 demo README，询问维护者/用户这个 companion tool 是否应该存在，再发 3 条中立的 fake-door 评论或帖子。
 - Issue 样本：
-  - [[Feature] Roadmap: improve MCP usability and performance under bounded resources](https://github.com/morluto/rea/issues/1065) (22 comments, 0 reactions)
-  - [[Design] Roadmap: clarify investigation ownership and modularize REA capability integration](https://github.com/morluto/rea/issues/740) (20 comments, 0 reactions)
+  - [[Feature] Roadmap: improve MCP usability and performance under bounded resources](https://github.com/morluto/rea/issues/1065) (40 comments, 0 reactions)
+  - [[Design] Roadmap: clarify investigation ownership and modularize REA capability integration](https://github.com/morluto/rea/issues/740) (21 comments, 0 reactions)
   - [[Feature] Explain content, exit outcome, and temporal differences in process comparisons](https://github.com/morluto/rea/issues/724) (11 comments, 0 reactions)
 
 #### K-Dense-AI/scientific-agent-skills
 
 - URL: https://github.com/K-Dense-AI/scientific-agent-skills
-- Score: 93.9 (build-now)
+- Score: 93.8 (build-now)
 - 为什么现在值得看：已有大受众，近期活跃，stars/day 代理指标强，issue 讨论显示需求，生态具备扩展形态，生态仍新，存在空位
 - 构建角度：围绕该生态构建跨 agent skill index、installer 或质量 benchmark。
 - 快速验证：发布一页 demo README，询问维护者/用户这个 companion tool 是否应该存在，再发 3 条中立的 fake-door 评论或帖子。
@@ -68,37 +68,28 @@ Languages: <a href="#zh-cn">简体中文</a> · <a href="#english">English</a>
   - [[New skill]: entropy-box](https://github.com/K-Dense-AI/scientific-agent-skills/issues/255) (2 comments, 0 reactions)
   - [[New skill]: con/duct](https://github.com/K-Dense-AI/scientific-agent-skills/issues/277) (1 comments, 0 reactions)
 
+#### repoprompt/repoprompt-ce
+
+- URL: https://github.com/repoprompt/repoprompt-ce
+- Score: 92.2 (build-now)
+- 为什么现在值得看：已有大受众，近期活跃，stars/day 代理指标强，issue 讨论显示需求，生态具备扩展形态，生态仍新，存在空位
+- 构建角度：构建 MCP registry、security checker、config generator 或 compatibility layer。
+- 快速验证：发布一页 demo README，询问维护者/用户这个 companion tool 是否应该存在，再发 3 条中立的 fake-door 评论或帖子。
+- Issue 样本：
+  - [After an update, MCP calls through a pre-update helper fail with principalUnverified and no hint to reconnect](https://github.com/repoprompt/repoprompt-ce/issues/1095) (5 comments, 0 reactions)
+  - [Feature request: Inspect, freeze, send, and verify a complete review request](https://github.com/repoprompt/repoprompt-ce/issues/1317) (4 comments, 0 reactions)
+
 #### addyosmani/agent-skills
 
 - URL: https://github.com/addyosmani/agent-skills
-- Score: 91.0 (build-now)
+- Score: 90.9 (build-now)
 - 为什么现在值得看：已有大受众，近期活跃，stars/day 代理指标强，issue 讨论显示需求，生态具备扩展形态，生态仍新，存在空位，饱和风险高
 - 构建角度：围绕该生态构建跨 agent skill index、installer 或质量 benchmark。
 - 快速验证：发布一页 demo README，询问维护者/用户这个 companion tool 是否应该存在，再发 3 条中立的 fake-door 评论或帖子。
 - Issue 样本：
   - [Community videos: Agent Skills in real use](https://github.com/addyosmani/agent-skills/issues/527) (3 comments, 8 reactions)
-  - [[skill-gap]: tasks/ are Poorly designed in parallel development](https://github.com/addyosmani/agent-skills/issues/518) (5 comments, 0 reactions)
   - [Is it possible to add Anthropic sdlc playbook inside agent-skills?](https://github.com/addyosmani/agent-skills/issues/519) (4 comments, 0 reactions)
-
-#### cobusgreyling/loop-engineering
-
-- URL: https://github.com/cobusgreyling/loop-engineering
-- Score: 87.4 (build-now)
-- 为什么现在值得看：已有大受众，近期活跃，stars/day 代理指标强，生态具备扩展形态，生态仍新，存在空位
-- 构建角度：围绕该生态构建跨 agent skill index、installer 或质量 benchmark。
-- 快速验证：发布一页 demo README，询问维护者/用户这个 companion tool 是否应该存在，再发 3 条中立的 fake-door 评论或帖子。
-- Issue 样本：
-  - [AI Skill Shield scan report: cobusgreyling/loop-engineering (41 skills)](https://github.com/cobusgreyling/loop-engineering/issues/567) (0 comments, 0 reactions)
-
-#### repoprompt/repoprompt-ce
-
-- URL: https://github.com/repoprompt/repoprompt-ce
-- Score: 87.3 (build-now)
-- 为什么现在值得看：已有大受众，近期活跃，stars/day 代理指标强，生态具备扩展形态，生态仍新，存在空位
-- 构建角度：构建 MCP registry、security checker、config generator 或 compatibility layer。
-- 快速验证：发布一页 demo README，询问维护者/用户这个 companion tool 是否应该存在，再发 3 条中立的 fake-door 评论或帖子。
-- Issue 样本：
-  - [After an update, MCP calls through a pre-update helper fail with principalUnverified and no hint to reconnect](https://github.com/repoprompt/repoprompt-ce/issues/1095) (5 comments, 0 reactions)
+  - [[skill-gap]: no new commands after install](https://github.com/addyosmani/agent-skills/issues/542) (4 comments, 0 reactions)
 
 #### tt-a1i/archify
 
@@ -110,27 +101,38 @@ Languages: <a href="#zh-cn">简体中文</a> · <a href="#english">English</a>
 - Issue 样本：
   - [workflow with explicit meta.viewBox gets no vertical-scroll contract — tall swimlane diagrams always fail containment](https://github.com/tt-a1i/archify/issues/616) (7 comments, 0 reactions)
 
-#### MicrosoftDocs/mcp
+#### cobusgreyling/loop-engineering
 
-- URL: https://github.com/MicrosoftDocs/mcp
-- Score: 87.0 (build-now)
-- 为什么现在值得看：已有大受众，近期活跃，stars/day 代理指标强，生态具备扩展形态
+- URL: https://github.com/cobusgreyling/loop-engineering
+- Score: 86.3 (build-now)
+- 为什么现在值得看：已有大受众，近期活跃，stars/day 代理指标强，生态具备扩展形态，生态仍新，存在空位
 - 构建角度：围绕该生态构建跨 agent skill index、installer 或质量 benchmark。
 - 快速验证：发布一页 demo README，询问维护者/用户这个 companion tool 是否应该存在，再发 3 条中立的 fake-door 评论或帖子。
 - Issue 样本：
-  - [https://github.com/MicrosoftDocs/mcp/actions](https://github.com/MicrosoftDocs/mcp/issues/204) (1 comments, 0 reactions)
-  - [Permission to add MCP Queen operational badge for com.microsoft/microsoft-learn-mcp](https://github.com/MicrosoftDocs/mcp/issues/201) (0 comments, 0 reactions)
+  - [AI Skill Shield scan report: cobusgreyling/loop-engineering (41 skills)](https://github.com/cobusgreyling/loop-engineering/issues/567) (0 comments, 0 reactions)
 
 #### rohitg00/pro-workflow
 
 - URL: https://github.com/rohitg00/pro-workflow
-- Score: 86.2 (build-now)
+- Score: 86.1 (build-now)
 - 为什么现在值得看：已有大受众，近期活跃，stars/day 代理指标强，生态具备扩展形态，生态仍新，存在空位
 - 构建角度：围绕该生态构建跨 agent skill index、installer 或质量 benchmark。
 - 快速验证：发布一页 demo README，询问维护者/用户这个 companion tool 是否应该存在，再发 3 条中立的 fake-door 评论或帖子。
 - Issue 样本：
   - [pro-workflow: hooks.json](https://github.com/rohitg00/pro-workflow/issues/122) (0 comments, 0 reactions)
   - [Pro Workflow analyzed by Claude and comparision of agent memory systems](https://github.com/rohitg00/pro-workflow/issues/111) (0 comments, 0 reactions)
+
+#### Leonxlnx/taste-skill
+
+- URL: https://github.com/Leonxlnx/taste-skill
+- Score: 85.9 (build-now)
+- 为什么现在值得看：已有大受众，近期活跃，stars/day 代理指标强，issue 讨论显示需求，生态具备扩展形态，生态仍新，存在空位
+- 构建角度：围绕该生态构建跨 agent skill index、installer 或质量 benchmark。
+- 快速验证：发布一页 demo README，询问维护者/用户这个 companion tool 是否应该存在，再发 3 条中立的 fake-door 评论或帖子。
+- Issue 样本：
+  - [How to force agent 100% obey the skill ?](https://github.com/Leonxlnx/taste-skill/issues/106) (2 comments, 0 reactions)
+  - [Is it available as a Codex plugin?](https://github.com/Leonxlnx/taste-skill/issues/114) (1 comments, 0 reactions)
+  - [Taste design skill](https://github.com/Leonxlnx/taste-skill/issues/116) (0 comments, 0 reactions)
 
 ### 运营备注
 
@@ -142,7 +144,7 @@ Languages: <a href="#zh-cn">简体中文</a> · <a href="#english">English</a>
 
 ## English
 
-Generated: `2026-10-10T08:38:11.784225+00:00`
+Generated: `2026-10-11T09:02:33.489530+00:00`
 
 A daily GitHub radar for AI agent skills, MCP servers, prompts, and agent-native developer tools.
 
@@ -150,31 +152,31 @@ A daily GitHub radar for AI agent skills, MCP servers, prompts, and agent-native
 
 | Rank | Repo | Score | Stage | Stars | Signal | Angle |
 |---:|---|---:|---|---:|---|---|
-| 1 | [morluto/rea](https://github.com/morluto/rea) | 97.0 | build-now | 56431 | large existing audience, recently active | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
-| 2 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 93.9 | build-now | 48227 | large existing audience, recently active | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
-| 3 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 91.0 | build-now | 104223 | large existing audience, recently active | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
-| 4 | [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) | 87.4 | build-now | 11449 | large existing audience, recently active | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
-| 5 | [repoprompt/repoprompt-ce](https://github.com/repoprompt/repoprompt-ce) | 87.3 | build-now | 946 | large existing audience, recently active | Build an MCP registry, security checker, config generator, or compatibility layer. |
-| 6 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 87.0 | build-now | 81435 | large existing audience, recently active | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
-| 7 | [MicrosoftDocs/mcp](https://github.com/MicrosoftDocs/mcp) | 87.0 | build-now | 1935 | large existing audience, recently active | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
-| 8 | [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow) | 86.2 | build-now | 2909 | large existing audience, recently active | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
-| 9 | [raullenchai/Rapid-MLX](https://github.com/raullenchai/Rapid-MLX) | 86.0 | build-now | 3953 | large existing audience, recently active | Build an MCP registry, security checker, config generator, or compatibility layer. |
-| 10 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 85.9 | build-now | 94227 | large existing audience, recently active | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
-| 11 | [Nanako0129/sepia](https://github.com/Nanako0129/sepia) | 85.4 | build-now | 3071 | large existing audience, recently active | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
-| 12 | [AMAP-ML/LongHorizon-Harness](https://github.com/AMAP-ML/LongHorizon-Harness) | 84.4 | build-now | 1715 | large existing audience, strong stars-per-day proxy | Build an MCP registry, security checker, config generator, or compatibility layer. |
-| 13 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 84.3 | build-now | 53974 | large existing audience, recently active | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
-| 14 | [moltis-org/moltis](https://github.com/moltis-org/moltis) | 83.5 | build-now | 2884 | large existing audience, recently active | Build an MCP registry, security checker, config generator, or compatibility layer. |
-| 15 | [getsentry/MobileBuildMCP](https://github.com/getsentry/MobileBuildMCP) | 83.4 | build-now | 6471 | large existing audience, recently active | Build an MCP registry, security checker, config generator, or compatibility layer. |
-| 16 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 83.1 | build-now | 110827 | large existing audience, recently active | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
-| 17 | [microsoft/intelligent-terminal](https://github.com/microsoft/intelligent-terminal) | 82.7 | build-now | 2045 | large existing audience, recently active | Build an MCP registry, security checker, config generator, or compatibility layer. |
-| 18 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 82.0 | build-now | 142196 | large existing audience, recently active | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
-| 19 | [LetsFG/LetsFG](https://github.com/LetsFG/LetsFG) | 81.5 | build-now | 2129 | large existing audience, recently active | Build an MCP registry, security checker, config generator, or compatibility layer. |
-| 20 | [NeoLabHQ/context-engineering-kit](https://github.com/NeoLabHQ/context-engineering-kit) | 80.4 | build-now | 1751 | large existing audience, strong stars-per-day proxy | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
-| 21 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 80.2 | build-now | 276146 | large existing audience, recently active | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
-| 22 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 80.0 | build-now | 83619 | large existing audience, recently active | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
-| 23 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 80.0 | build-now | 74227 | large existing audience, recently active | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
-| 24 | [samugit83/redamon](https://github.com/samugit83/redamon) | 79.8 | probe-this-week | 2983 | large existing audience, recently active | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
-| 25 | [tigicion/dao-code](https://github.com/tigicion/dao-code) | 79.6 | probe-this-week | 1083 | large existing audience, recently active | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
+| 1 | [morluto/rea](https://github.com/morluto/rea) | 97.0 | build-now | 82144 | large existing audience, recently active | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
+| 2 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 93.8 | build-now | 48337 | large existing audience, recently active | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
+| 3 | [repoprompt/repoprompt-ce](https://github.com/repoprompt/repoprompt-ce) | 92.2 | build-now | 949 | large existing audience, recently active | Build an MCP registry, security checker, config generator, or compatibility layer. |
+| 4 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 90.9 | build-now | 104632 | large existing audience, recently active | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
+| 5 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | 87.0 | build-now | 81807 | large existing audience, recently active | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
+| 6 | [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) | 86.3 | build-now | 11488 | large existing audience, recently active | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
+| 7 | [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow) | 86.1 | build-now | 2910 | large existing audience, recently active | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
+| 8 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 85.9 | build-now | 94530 | large existing audience, recently active | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
+| 9 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 85.5 | build-now | 54120 | large existing audience, recently active | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
+| 10 | [Nanako0129/sepia](https://github.com/Nanako0129/sepia) | 85.3 | build-now | 3080 | large existing audience, recently active | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
+| 11 | [AMAP-ML/LongHorizon-Harness](https://github.com/AMAP-ML/LongHorizon-Harness) | 84.3 | build-now | 1717 | large existing audience, strong stars-per-day proxy | Build an MCP registry, security checker, config generator, or compatibility layer. |
+| 12 | [moltis-org/moltis](https://github.com/moltis-org/moltis) | 83.4 | build-now | 2884 | large existing audience, recently active | Build an MCP registry, security checker, config generator, or compatibility layer. |
+| 13 | [getsentry/MobileBuildMCP](https://github.com/getsentry/MobileBuildMCP) | 83.2 | build-now | 6474 | large existing audience, recently active | Build an MCP registry, security checker, config generator, or compatibility layer. |
+| 14 | [samugit83/redamon](https://github.com/samugit83/redamon) | 83.2 | build-now | 2988 | large existing audience, recently active | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
+| 15 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 83.1 | build-now | 110964 | large existing audience, recently active | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
+| 16 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 83.0 | build-now | 74991 | large existing audience, recently active | Build an MCP registry, security checker, config generator, or compatibility layer. |
+| 17 | [microsoft/intelligent-terminal](https://github.com/microsoft/intelligent-terminal) | 82.7 | build-now | 2046 | large existing audience, recently active | Build an MCP registry, security checker, config generator, or compatibility layer. |
+| 18 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | 82.0 | build-now | 142624 | large existing audience, recently active | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
+| 19 | [raullenchai/Rapid-MLX](https://github.com/raullenchai/Rapid-MLX) | 81.9 | build-now | 3959 | large existing audience, recently active | Build an MCP registry, security checker, config generator, or compatibility layer. |
+| 20 | [LetsFG/LetsFG](https://github.com/LetsFG/LetsFG) | 81.7 | build-now | 2135 | large existing audience, recently active | Build an MCP registry, security checker, config generator, or compatibility layer. |
+| 21 | [NeoLabHQ/context-engineering-kit](https://github.com/NeoLabHQ/context-engineering-kit) | 80.3 | build-now | 1751 | large existing audience, strong stars-per-day proxy | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
+| 22 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | 80.2 | build-now | 276730 | large existing audience, recently active | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
+| 23 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 80.0 | build-now | 83676 | large existing audience, recently active | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
+| 24 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 80.0 | build-now | 74314 | large existing audience, recently active | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
+| 25 | [tigicion/dao-code](https://github.com/tigicion/dao-code) | 79.5 | probe-this-week | 1082 | large existing audience, recently active | Build a cross-agent skill index, installer, or quality benchmark around this ecosystem. |
 
 ### Build Briefs
 
@@ -186,14 +188,14 @@ A daily GitHub radar for AI agent skills, MCP servers, prompts, and agent-native
 - Project angle: Build a cross-agent skill index, installer, or quality benchmark around this ecosystem.
 - Fast validation: publish a one-page demo README, ask maintainers/users if the companion tool should exist, then open 3 fake-door comments or posts.
 - Issue sample:
-  - [[Feature] Roadmap: improve MCP usability and performance under bounded resources](https://github.com/morluto/rea/issues/1065) (22 comments, 0 reactions)
-  - [[Design] Roadmap: clarify investigation ownership and modularize REA capability integration](https://github.com/morluto/rea/issues/740) (20 comments, 0 reactions)
+  - [[Feature] Roadmap: improve MCP usability and performance under bounded resources](https://github.com/morluto/rea/issues/1065) (40 comments, 0 reactions)
+  - [[Design] Roadmap: clarify investigation ownership and modularize REA capability integration](https://github.com/morluto/rea/issues/740) (21 comments, 0 reactions)
   - [[Feature] Explain content, exit outcome, and temporal differences in process comparisons](https://github.com/morluto/rea/issues/724) (11 comments, 0 reactions)
 
 #### K-Dense-AI/scientific-agent-skills
 
 - URL: https://github.com/K-Dense-AI/scientific-agent-skills
-- Score: 93.9 (build-now)
+- Score: 93.8 (build-now)
 - Why now: large existing audience, recently active, strong stars-per-day proxy, issue discussion shows demand, extension-shaped ecosystem, young enough for ecosystem gaps
 - Project angle: Build a cross-agent skill index, installer, or quality benchmark around this ecosystem.
 - Fast validation: publish a one-page demo README, ask maintainers/users if the companion tool should exist, then open 3 fake-door comments or posts.
@@ -202,37 +204,28 @@ A daily GitHub radar for AI agent skills, MCP servers, prompts, and agent-native
   - [[New skill]: entropy-box](https://github.com/K-Dense-AI/scientific-agent-skills/issues/255) (2 comments, 0 reactions)
   - [[New skill]: con/duct](https://github.com/K-Dense-AI/scientific-agent-skills/issues/277) (1 comments, 0 reactions)
 
+#### repoprompt/repoprompt-ce
+
+- URL: https://github.com/repoprompt/repoprompt-ce
+- Score: 92.2 (build-now)
+- Why now: large existing audience, recently active, strong stars-per-day proxy, issue discussion shows demand, extension-shaped ecosystem, young enough for ecosystem gaps
+- Project angle: Build an MCP registry, security checker, config generator, or compatibility layer.
+- Fast validation: publish a one-page demo README, ask maintainers/users if the companion tool should exist, then open 3 fake-door comments or posts.
+- Issue sample:
+  - [After an update, MCP calls through a pre-update helper fail with principalUnverified and no hint to reconnect](https://github.com/repoprompt/repoprompt-ce/issues/1095) (5 comments, 0 reactions)
+  - [Feature request: Inspect, freeze, send, and verify a complete review request](https://github.com/repoprompt/repoprompt-ce/issues/1317) (4 comments, 0 reactions)
+
 #### addyosmani/agent-skills
 
 - URL: https://github.com/addyosmani/agent-skills
-- Score: 91.0 (build-now)
+- Score: 90.9 (build-now)
 - Why now: large existing audience, recently active, strong stars-per-day proxy, issue discussion shows demand, extension-shaped ecosystem, young enough for ecosystem gaps, high saturation risk
 - Project angle: Build a cross-agent skill index, installer, or quality benchmark around this ecosystem.
 - Fast validation: publish a one-page demo README, ask maintainers/users if the companion tool should exist, then open 3 fake-door comments or posts.
 - Issue sample:
   - [Community videos: Agent Skills in real use](https://github.com/addyosmani/agent-skills/issues/527) (3 comments, 8 reactions)
-  - [[skill-gap]: tasks/ are Poorly designed in parallel development](https://github.com/addyosmani/agent-skills/issues/518) (5 comments, 0 reactions)
   - [Is it possible to add Anthropic sdlc playbook inside agent-skills?](https://github.com/addyosmani/agent-skills/issues/519) (4 comments, 0 reactions)
-
-#### cobusgreyling/loop-engineering
-
-- URL: https://github.com/cobusgreyling/loop-engineering
-- Score: 87.4 (build-now)
-- Why now: large existing audience, recently active, strong stars-per-day proxy, extension-shaped ecosystem, young enough for ecosystem gaps
-- Project angle: Build a cross-agent skill index, installer, or quality benchmark around this ecosystem.
-- Fast validation: publish a one-page demo README, ask maintainers/users if the companion tool should exist, then open 3 fake-door comments or posts.
-- Issue sample:
-  - [AI Skill Shield scan report: cobusgreyling/loop-engineering (41 skills)](https://github.com/cobusgreyling/loop-engineering/issues/567) (0 comments, 0 reactions)
-
-#### repoprompt/repoprompt-ce
-
-- URL: https://github.com/repoprompt/repoprompt-ce
-- Score: 87.3 (build-now)
-- Why now: large existing audience, recently active, strong stars-per-day proxy, extension-shaped ecosystem, young enough for ecosystem gaps
-- Project angle: Build an MCP registry, security checker, config generator, or compatibility layer.
-- Fast validation: publish a one-page demo README, ask maintainers/users if the companion tool should exist, then open 3 fake-door comments or posts.
-- Issue sample:
-  - [After an update, MCP calls through a pre-update helper fail with principalUnverified and no hint to reconnect](https://github.com/repoprompt/repoprompt-ce/issues/1095) (5 comments, 0 reactions)
+  - [[skill-gap]: no new commands after install](https://github.com/addyosmani/agent-skills/issues/542) (4 comments, 0 reactions)
 
 #### tt-a1i/archify
 
@@ -244,27 +237,38 @@ A daily GitHub radar for AI agent skills, MCP servers, prompts, and agent-native
 - Issue sample:
   - [workflow with explicit meta.viewBox gets no vertical-scroll contract — tall swimlane diagrams always fail containment](https://github.com/tt-a1i/archify/issues/616) (7 comments, 0 reactions)
 
-#### MicrosoftDocs/mcp
+#### cobusgreyling/loop-engineering
 
-- URL: https://github.com/MicrosoftDocs/mcp
-- Score: 87.0 (build-now)
-- Why now: large existing audience, recently active, strong stars-per-day proxy, extension-shaped ecosystem
+- URL: https://github.com/cobusgreyling/loop-engineering
+- Score: 86.3 (build-now)
+- Why now: large existing audience, recently active, strong stars-per-day proxy, extension-shaped ecosystem, young enough for ecosystem gaps
 - Project angle: Build a cross-agent skill index, installer, or quality benchmark around this ecosystem.
 - Fast validation: publish a one-page demo README, ask maintainers/users if the companion tool should exist, then open 3 fake-door comments or posts.
 - Issue sample:
-  - [https://github.com/MicrosoftDocs/mcp/actions](https://github.com/MicrosoftDocs/mcp/issues/204) (1 comments, 0 reactions)
-  - [Permission to add MCP Queen operational badge for com.microsoft/microsoft-learn-mcp](https://github.com/MicrosoftDocs/mcp/issues/201) (0 comments, 0 reactions)
+  - [AI Skill Shield scan report: cobusgreyling/loop-engineering (41 skills)](https://github.com/cobusgreyling/loop-engineering/issues/567) (0 comments, 0 reactions)
 
 #### rohitg00/pro-workflow
 
 - URL: https://github.com/rohitg00/pro-workflow
-- Score: 86.2 (build-now)
+- Score: 86.1 (build-now)
 - Why now: large existing audience, recently active, strong stars-per-day proxy, extension-shaped ecosystem, young enough for ecosystem gaps
 - Project angle: Build a cross-agent skill index, installer, or quality benchmark around this ecosystem.
 - Fast validation: publish a one-page demo README, ask maintainers/users if the companion tool should exist, then open 3 fake-door comments or posts.
 - Issue sample:
   - [pro-workflow: hooks.json](https://github.com/rohitg00/pro-workflow/issues/122) (0 comments, 0 reactions)
   - [Pro Workflow analyzed by Claude and comparision of agent memory systems](https://github.com/rohitg00/pro-workflow/issues/111) (0 comments, 0 reactions)
+
+#### Leonxlnx/taste-skill
+
+- URL: https://github.com/Leonxlnx/taste-skill
+- Score: 85.9 (build-now)
+- Why now: large existing audience, recently active, strong stars-per-day proxy, issue discussion shows demand, extension-shaped ecosystem, young enough for ecosystem gaps
+- Project angle: Build a cross-agent skill index, installer, or quality benchmark around this ecosystem.
+- Fast validation: publish a one-page demo README, ask maintainers/users if the companion tool should exist, then open 3 fake-door comments or posts.
+- Issue sample:
+  - [How to force agent 100% obey the skill ?](https://github.com/Leonxlnx/taste-skill/issues/106) (2 comments, 0 reactions)
+  - [Is it available as a Codex plugin?](https://github.com/Leonxlnx/taste-skill/issues/114) (1 comments, 0 reactions)
+  - [Taste design skill](https://github.com/Leonxlnx/taste-skill/issues/116) (0 comments, 0 reactions)
 
 ### Operator Notes
 
