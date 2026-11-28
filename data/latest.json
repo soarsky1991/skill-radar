@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-27T11:00:55.065277+00:00",
-  "since": "2026-10-13",
+  "generated_at": "2026-11-28T10:37:00.763448+00:00",
+  "since": "2026-10-14",
   "queries": [
     {
       "label": "agent-skills",
@@ -43,9 +43,9 @@
         "owner": "qybaihe",
         "description": "🛡️ BLA (bla-agents / Blind LLM Agents) — Open-source Blue Defense MCP server & CLI protecting JS/TS, Electron ASAR, WASM, Python, Native Binaries, SQLite, GGUF/Safetensors & Android DEX against AI reverse-engineering agents (REA).",
         "url": "https://github.com/qybaihe/bla",
-        "stars": 7039,
-        "forks": 875,
-        "open_issues": 11,
+        "stars": 7098,
+        "forks": 884,
+        "open_issues": 12,
         "language": "TypeScript",
         "topics": [
           "adversarial-ai",
@@ -120,17 +120,17 @@
       ],
       "issue_error": "",
       "radar": {
-        "score": 88.9,
+        "score": 89.0,
         "stage": "build-now",
         "angle": "Build a cross-agent skill index, installer, or quality benchmark around this ecosystem.",
         "scores": {
           "heat": 25.0,
-          "freshness": 9.9,
+          "freshness": 9.8,
           "velocity_proxy": 18.0,
           "issue_demand": 8.7,
           "extensibility": 13.0,
           "creator_fit": 0.0,
-          "open_surface": 4.3,
+          "open_surface": 4.5,
           "novelty": 10.0,
           "saturation_penalty": 0.0
         },
@@ -169,144 +169,14 @@
     },
     {
       "repo": {
-        "full_name": "apify/apify-mcp-server",
-        "name": "apify-mcp-server",
-        "owner": "apify",
-        "description": "The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store.",
-        "url": "https://github.com/apify/apify-mcp-server",
-        "stars": 18114,
-        "forks": 490,
-        "open_issues": 277,
-        "language": "TypeScript",
-        "topics": [
-          "agents",
-          "ai",
-          "mcp",
-          "mcp-server"
-        ],
-        "created_at": "2025-01-02T15:43:09Z",
-        "pushed_at": "2026-11-27T01:31:27Z",
-        "query_label": "mcp-tools"
-      },
-      "issues": [
-        {
-          "number": 1551,
-          "title": "ci: Release bump job fails on flaky reviewer request",
-          "url": "https://github.com/apify/apify-mcp-server/issues/1551",
-          "state": "open",
-          "comments": 7,
-          "reactions": 0,
-          "created_at": "2026-10-13T09:41:44Z",
-          "updated_at": "2026-10-16T10:17:37Z",
-          "labels": [
-            "t-ai"
-          ]
-        },
-        {
-          "number": 1687,
-          "title": "test(evals): Move the MCP server Actor eval cases to the new MCP tools",
-          "url": "https://github.com/apify/apify-mcp-server/issues/1687",
-          "state": "closed",
-          "comments": 3,
-          "reactions": 0,
-          "created_at": "2026-10-24T16:41:00Z",
-          "updated_at": "2026-10-28T22:25:10Z",
-          "labels": [
-            "t-ai"
-          ]
-        },
-        {
-          "number": 1573,
-          "title": "call-actor with an empty actor fails as INTERNAL_ERROR",
-          "url": "https://github.com/apify/apify-mcp-server/issues/1573",
-          "state": "open",
-          "comments": 3,
-          "reactions": 0,
-          "created_at": "2026-10-14T08:30:29Z",
-          "updated_at": "2026-10-15T09:54:51Z",
-          "labels": [
-            "bug",
-            "t-ai"
-          ]
-        },
-        {
-          "number": 1695,
-          "title": "Elicitation",
-          "url": "https://github.com/apify/apify-mcp-server/issues/1695",
-          "state": "open",
-          "comments": 3,
-          "reactions": 0,
-          "created_at": "2026-10-26T11:54:12Z",
-          "updated_at": "2026-11-23T11:19:17Z",
-          "labels": [
-            "t-ai",
-            "product enhancement"
-          ]
-        }
-      ],
-      "issue_error": "",
-      "radar": {
-        "score": 88.3,
-        "stage": "build-now",
-        "angle": "Build an MCP registry, security checker, config generator, or compatibility layer.",
-        "scores": {
-          "heat": 25.0,
-          "freshness": 10.0,
-          "velocity_proxy": 18.0,
-          "issue_demand": 10.3,
-          "extensibility": 12.0,
-          "creator_fit": 0.0,
-          "open_surface": 8.0,
-          "novelty": 5.0,
-          "saturation_penalty": 0.0
-        },
-        "signals": [
-          "large existing audience",
-          "recently active",
-          "strong stars-per-day proxy",
-          "issue discussion shows demand",
-          "extension-shaped ecosystem"
-        ],
-        "top_issues": [
-          {
-            "number": 1551,
-            "title": "ci: Release bump job fails on flaky reviewer request",
-            "url": "https://github.com/apify/apify-mcp-server/issues/1551",
-            "state": "open",
-            "comments": 7,
-            "reactions": 0,
-            "created_at": "2026-10-13T09:41:44Z",
-            "updated_at": "2026-10-16T10:17:37Z",
-            "labels": [
-              "t-ai"
-            ]
-          },
-          {
-            "number": 1687,
-            "title": "test(evals): Move the MCP server Actor eval cases to the new MCP tools",
-            "url": "https://github.com/apify/apify-mcp-server/issues/1687",
-            "state": "closed",
-            "comments": 3,
-            "reactions": 0,
-            "created_at": "2026-10-24T16:41:00Z",
-            "updated_at": "2026-10-28T22:25:10Z",
-            "labels": [
-              "t-ai"
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "repo": {
         "full_name": "addyosmani/agent-skills",
         "name": "agent-skills",
         "owner": "addyosmani",
         "description": "Production-grade engineering skills for AI coding agents.",
         "url": "https://github.com/addyosmani/agent-skills",
-        "stars": 120697,
-        "forks": 12554,
-        "open_issues": 117,
+        "stars": 120857,
+        "forks": 12573,
+        "open_issues": 120,
         "language": "JavaScript",
         "topics": [
           "agent-skills",
@@ -370,12 +240,12 @@
       ],
       "issue_error": "",
       "radar": {
-        "score": 87.0,
+        "score": 86.9,
         "stage": "build-now",
         "angle": "Build a cross-agent skill index, installer, or quality benchmark around this ecosystem.",
         "scores": {
           "heat": 25.0,
-          "freshness": 9.8,
+          "freshness": 9.7,
           "velocity_proxy": 18.0,
           "issue_demand": 14.2,
           "extensibility": 14.0,
@@ -434,106 +304,103 @@
     },
     {
       "repo": {
-        "full_name": "bytedance/deer-flow",
-        "name": "deer-flow",
-        "owner": "bytedance",
-        "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
-        "url": "https://github.com/bytedance/deer-flow",
-        "stars": 85868,
-        "forks": 12128,
-        "open_issues": 981,
+        "full_name": "sickn33/agentic-awesome-skills",
+        "name": "agentic-awesome-skills",
+        "owner": "sickn33",
+        "description": "3,000+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.",
+        "url": "https://github.com/sickn33/agentic-awesome-skills",
+        "stars": 50470,
+        "forks": 7318,
+        "open_issues": 34,
         "language": "Python",
         "topics": [
-          "agent",
-          "agentic",
-          "agentic-framework",
-          "agentic-workflow",
-          "ai",
+          "agent-skills",
+          "agentic-skills",
+          "ai-agent-skills",
           "ai-agents",
-          "deep-research",
-          "harness",
-          "langchain",
-          "langgraph",
-          "langmanus",
-          "llm",
-          "multi-agent",
-          "nodejs",
-          "podcast",
-          "python",
-          "superagent",
-          "typescript"
+          "ai-coding",
+          "ai-workflows",
+          "antigravity",
+          "antigravity-skills",
+          "claude-code",
+          "claude-code-skills",
+          "codex-cli",
+          "codex-skills",
+          "cursor",
+          "cursor-skills",
+          "developer-tools",
+          "gemini-cli",
+          "gemini-skills",
+          "kiro",
+          "mcp",
+          "skill-library"
         ],
-        "created_at": "2025-05-07T02:50:19Z",
-        "pushed_at": "2026-11-27T09:07:50Z",
-        "query_label": "agent-skills"
+        "created_at": "2026-01-14T17:48:09Z",
+        "pushed_at": "2026-11-28T10:33:14Z",
+        "query_label": "codex-skills"
       },
       "issues": [
         {
-          "number": 7884,
-          "title": "DeerFlow Roadmap — 2.3.0 and Beyond",
-          "url": "https://github.com/bytedance/deer-flow/issues/7884",
-          "state": "open",
-          "comments": 12,
-          "reactions": 4,
-          "created_at": "2026-11-04T08:29:20Z",
-          "updated_at": "2026-11-15T14:42:00Z",
-          "labels": [
-            "RFC",
-            "important"
-          ]
-        },
-        {
-          "number": 7050,
-          "title": "[RFC] Shared IM natural-language controls and task result delivery / 统一 IM 自然语言控制与结果回传",
-          "url": "https://github.com/bytedance/deer-flow/issues/7050",
-          "state": "open",
-          "comments": 10,
-          "reactions": 0,
-          "created_at": "2026-10-18T04:49:32Z",
-          "updated_at": "2026-11-13T08:08:15Z",
-          "labels": [
-            "RFC"
-          ]
-        },
-        {
-          "number": 8214,
-          "title": "[bug] Loop detection drops a whole batch of parallel tool calls once it reaches the per-tool hard limit",
-          "url": "https://github.com/bytedance/deer-flow/issues/8214",
+          "number": 2437,
+          "title": "Suggest: add Claude Skills Directory as an Additional Source",
+          "url": "https://github.com/sickn33/agentic-awesome-skills/issues/2437",
           "state": "closed",
-          "comments": 8,
+          "comments": 3,
           "reactions": 0,
-          "created_at": "2026-11-13T06:06:18Z",
-          "updated_at": "2026-11-18T06:28:39Z",
+          "created_at": "2026-11-20T11:51:32Z",
+          "updated_at": "2026-11-23T07:00:44Z",
           "labels": []
         },
         {
-          "number": 6837,
-          "title": "[feat] Script-driven Dynamic Workflows with resumable agent calls",
-          "url": "https://github.com/bytedance/deer-flow/issues/6837",
-          "state": "open",
-          "comments": 8,
+          "number": 2196,
+          "title": "Request: GitHub Support cleanup of my PR ref(s) (contributor email in commit metadata)",
+          "url": "https://github.com/sickn33/agentic-awesome-skills/issues/2196",
+          "state": "closed",
+          "comments": 1,
           "reactions": 0,
-          "created_at": "2026-10-13T16:43:31Z",
-          "updated_at": "2026-11-23T03:38:56Z",
+          "created_at": "2026-10-30T18:30:57Z",
+          "updated_at": "2026-11-03T08:52:27Z",
+          "labels": []
+        },
+        {
+          "number": 1977,
+          "title": "Arcmira setup summary omits required MCP connection",
+          "url": "https://github.com/sickn33/agentic-awesome-skills/issues/1977",
+          "state": "closed",
+          "comments": 1,
+          "reactions": 0,
+          "created_at": "2026-10-18T12:27:01Z",
+          "updated_at": "2026-10-19T09:03:59Z",
+          "labels": []
+        },
+        {
+          "number": 2136,
+          "title": "[BUG]",
+          "url": "https://github.com/sickn33/agentic-awesome-skills/issues/2136",
+          "state": "closed",
+          "comments": 1,
+          "reactions": 0,
+          "created_at": "2026-10-25T16:21:48Z",
+          "updated_at": "2026-10-27T07:26:56Z",
           "labels": [
-            "needs-triage"
+            "bug"
           ]
         }
       ],
       "issue_error": "",
       "radar": {
-        "score": 86.0,
+        "score": 86.4,
         "stage": "build-now",
         "angle": "Build a cross-agent skill index, installer, or quality benchmark around this ecosystem.",
         "scores": {
           "heat": 25.0,
           "freshness": 10.0,
           "velocity_proxy": 18.0,
-          "issue_demand": 12.0,
-          "extensibility": 12.0,
-          "creator_fit": 2.0,
-          "open_surface": 8.0,
-          "novelty": 5.0,
+          "issue_demand": 11.2,
+          "extensibility": 14.0,
+          "creator_fit": 0.0,
+          "open_surface": 6.2,
+          "novelty": 8.0,
           "saturation_penalty": 6.0
         },
         "signals": [
@@ -541,154 +408,44 @@
           "recently active",
           "strong stars-per-day proxy",
           "issue discussion shows demand",
-          "extension-shaped ecosystem"
-        ],
-        "top_issues": [
-          {
-            "number": 7884,
-            "title": "DeerFlow Roadmap — 2.3.0 and Beyond",
-            "url": "https://github.com/bytedance/deer-flow/issues/7884",
-            "state": "open",
-            "comments": 12,
-            "reactions": 4,
-            "created_at": "2026-11-04T08:29:20Z",
-            "updated_at": "2026-11-15T14:42:00Z",
-            "labels": [
-              "RFC",
-              "important"
-            ]
-          },
-          {
-            "number": 6837,
-            "title": "[feat] Script-driven Dynamic Workflows with resumable agent calls",
-            "url": "https://github.com/bytedance/deer-flow/issues/6837",
-            "state": "open",
-            "comments": 8,
-            "reactions": 0,
-            "created_at": "2026-10-13T16:43:31Z",
-            "updated_at": "2026-11-23T03:38:56Z",
-            "labels": [
-              "needs-triage"
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "repo": {
-        "full_name": "kajisho5/ffmpeg-skill",
-        "name": "ffmpeg-skill",
-        "owner": "kajisho5",
-        "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
-        "url": "https://github.com/kajisho5/ffmpeg-skill",
-        "stars": 11712,
-        "forks": 974,
-        "open_issues": 48,
-        "language": "Python",
-        "topics": [
-          "agent-skills",
-          "ai-agents",
-          "audio-processing",
-          "captions",
-          "claude-code",
-          "codex",
-          "coding-agent",
-          "cursor",
-          "ffmpeg",
-          "gemini-cli-extension",
-          "loudness-normalization",
-          "mcp",
-          "mcp-server",
-          "model-context-protocol",
-          "python",
-          "subtitles",
-          "transcoding",
-          "video",
-          "video-editing",
-          "whisper"
-        ],
-        "created_at": "2026-09-03T14:33:38Z",
-        "pushed_at": "2026-11-27T10:46:25Z",
-        "query_label": "mcp-tools"
-      },
-      "issues": [
-        {
-          "number": 470,
-          "title": "Follow-ups found while fixing the audit's high findings (#469)",
-          "url": "https://github.com/kajisho5/ffmpeg-skill/issues/470",
-          "state": "closed",
-          "comments": 7,
-          "reactions": 0,
-          "created_at": "2026-11-12T10:40:59Z",
-          "updated_at": "2026-11-21T22:57:38Z",
-          "labels": [
-            "fix"
-          ]
-        },
-        {
-          "number": 632,
-          "title": "Plan: make the defect count go down, measured weekly; what ships as 3.x and what waits for 4.0",
-          "url": "https://github.com/kajisho5/ffmpeg-skill/issues/632",
-          "state": "open",
-          "comments": 7,
-          "reactions": 0,
-          "created_at": "2026-11-19T09:08:06Z",
-          "updated_at": "2026-11-26T18:00:08Z",
-          "labels": [
-            "chore"
-          ]
-        },
-        {
-          "number": 551,
-          "title": "A picture tool given an audio-only output extension fails inside ffmpeg instead of being refused",
-          "url": "https://github.com/kajisho5/ffmpeg-skill/issues/551",
-          "state": "closed",
-          "comments": 5,
-          "reactions": 0,
-          "created_at": "2026-11-15T15:39:12Z",
-          "updated_at": "2026-11-18T13:10:15Z",
-          "labels": [
-            "bug"
-          ]
-        },
-        {
-          "number": 633,
-          "title": "After 4.0: ways to make the 42 tools efficient to use",
-          "url": "https://github.com/kajisho5/ffmpeg-skill/issues/633",
-          "state": "open",
-          "comments": 5,
-          "reactions": 0,
-          "created_at": "2026-11-19T09:17:50Z",
-          "updated_at": "2026-11-21T12:29:39Z",
-          "labels": [
-            "enhancement"
-          ]
-        }
-      ],
-      "issue_error": "",
-      "radar": {
-        "score": 85.8,
-        "stage": "build-now",
-        "angle": "Build a cross-agent skill index, installer, or quality benchmark around this ecosystem.",
-        "scores": {
-          "heat": 25.0,
-          "freshness": 10.0,
-          "velocity_proxy": 18.0,
-          "issue_demand": 0.0,
-          "extensibility": 14.0,
-          "creator_fit": 2.0,
-          "open_surface": 6.8,
-          "novelty": 10.0,
-          "saturation_penalty": 0.0
-        },
-        "signals": [
-          "large existing audience",
-          "recently active",
-          "strong stars-per-day proxy",
           "extension-shaped ecosystem",
           "young enough for ecosystem gaps"
         ],
-        "top_issues": []
+        "top_issues": [
+          {
+            "number": 2437,
+            "title": "Suggest: add Claude Skills Directory as an Additional Source",
+            "url": "https://github.com/sickn33/agentic-awesome-skills/issues/2437",
+            "state": "closed",
+            "comments": 3,
+            "reactions": 0,
+            "created_at": "2026-11-20T11:51:32Z",
+            "updated_at": "2026-11-23T07:00:44Z",
+            "labels": []
+          },
+          {
+            "number": 2196,
+            "title": "Request: GitHub Support cleanup of my PR ref(s) (contributor email in commit metadata)",
+            "url": "https://github.com/sickn33/agentic-awesome-skills/issues/2196",
+            "state": "closed",
+            "comments": 1,
+            "reactions": 0,
+            "created_at": "2026-10-30T18:30:57Z",
+            "updated_at": "2026-11-03T08:52:27Z",
+            "labels": []
+          },
+          {
+            "number": 1977,
+            "title": "Arcmira setup summary omits required MCP connection",
+            "url": "https://github.com/sickn33/agentic-awesome-skills/issues/1977",
+            "state": "closed",
+            "comments": 1,
+            "reactions": 0,
+            "created_at": "2026-10-18T12:27:01Z",
+            "updated_at": "2026-10-19T09:03:59Z",
+            "labels": []
+          }
+        ]
       }
     },
     {
@@ -698,9 +455,9 @@
         "owner": "zhayujie",
         "description": "Open-source personal AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-agent, multi-model, multi-channel. Lightweight, extensible, one-line install.",
         "url": "https://github.com/zhayujie/CowAgent",
-        "stars": 48107,
-        "forks": 10453,
-        "open_issues": 46,
+        "stars": 48118,
+        "forks": 10452,
+        "open_issues": 62,
         "language": "Python",
         "topics": [
           "ai",
@@ -722,7 +479,7 @@
           "skills"
         ],
         "created_at": "2022-08-07T08:33:41Z",
-        "pushed_at": "2026-11-27T09:54:15Z",
+        "pushed_at": "2026-11-28T09:25:54Z",
         "query_label": "codex-skills"
       },
       "issues": [
@@ -773,7 +530,7 @@
       ],
       "issue_error": "",
       "radar": {
-        "score": 84.7,
+        "score": 85.2,
         "stage": "build-now",
         "angle": "Build a cross-agent skill index, installer, or quality benchmark around this ecosystem.",
         "scores": {
@@ -783,7 +540,7 @@
           "issue_demand": 6.0,
           "extensibility": 14.0,
           "creator_fit": 3.0,
-          "open_surface": 6.7,
+          "open_surface": 7.2,
           "novelty": 2.0,
           "saturation_penalty": 0.0
         },
@@ -810,13 +567,130 @@
     },
     {
       "repo": {
+        "full_name": "kajisho5/ffmpeg-skill",
+        "name": "ffmpeg-skill",
+        "owner": "kajisho5",
+        "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
+        "url": "https://github.com/kajisho5/ffmpeg-skill",
+        "stars": 12098,
+        "forks": 998,
+        "open_issues": 31,
+        "language": "Python",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "audio-processing",
+          "captions",
+          "claude-code",
+          "codex",
+          "coding-agent",
+          "cursor",
+          "ffmpeg",
+          "gemini-cli-extension",
+          "loudness-normalization",
+          "mcp",
+          "mcp-server",
+          "model-context-protocol",
+          "python",
+          "subtitles",
+          "transcoding",
+          "video",
+          "video-editing",
+          "whisper"
+        ],
+        "created_at": "2026-09-03T14:33:38Z",
+        "pushed_at": "2026-11-28T10:34:53Z",
+        "query_label": "mcp-tools"
+      },
+      "issues": [
+        {
+          "number": 632,
+          "title": "Plan: make the defect count go down, measured weekly; what ships as 3.x and what waits for 4.0",
+          "url": "https://github.com/kajisho5/ffmpeg-skill/issues/632",
+          "state": "open",
+          "comments": 8,
+          "reactions": 0,
+          "created_at": "2026-11-19T09:08:06Z",
+          "updated_at": "2026-11-27T14:27:31Z",
+          "labels": [
+            "chore"
+          ]
+        },
+        {
+          "number": 470,
+          "title": "Follow-ups found while fixing the audit's high findings (#469)",
+          "url": "https://github.com/kajisho5/ffmpeg-skill/issues/470",
+          "state": "closed",
+          "comments": 7,
+          "reactions": 0,
+          "created_at": "2026-11-12T10:40:59Z",
+          "updated_at": "2026-11-21T22:57:38Z",
+          "labels": [
+            "fix"
+          ]
+        },
+        {
+          "number": 633,
+          "title": "After 4.0: ways to make the 42 tools efficient to use",
+          "url": "https://github.com/kajisho5/ffmpeg-skill/issues/633",
+          "state": "closed",
+          "comments": 6,
+          "reactions": 0,
+          "created_at": "2026-11-19T09:17:50Z",
+          "updated_at": "2026-11-28T08:43:58Z",
+          "labels": [
+            "enhancement"
+          ]
+        },
+        {
+          "number": 551,
+          "title": "A picture tool given an audio-only output extension fails inside ffmpeg instead of being refused",
+          "url": "https://github.com/kajisho5/ffmpeg-skill/issues/551",
+          "state": "closed",
+          "comments": 5,
+          "reactions": 0,
+          "created_at": "2026-11-15T15:39:12Z",
+          "updated_at": "2026-11-18T13:10:15Z",
+          "labels": [
+            "bug"
+          ]
+        }
+      ],
+      "issue_error": "",
+      "radar": {
+        "score": 85.0,
+        "stage": "build-now",
+        "angle": "Build a cross-agent skill index, installer, or quality benchmark around this ecosystem.",
+        "scores": {
+          "heat": 25.0,
+          "freshness": 10.0,
+          "velocity_proxy": 18.0,
+          "issue_demand": 0.0,
+          "extensibility": 14.0,
+          "creator_fit": 2.0,
+          "open_surface": 6.0,
+          "novelty": 10.0,
+          "saturation_penalty": 0.0
+        },
+        "signals": [
+          "large existing audience",
+          "recently active",
+          "strong stars-per-day proxy",
+          "extension-shaped ecosystem",
+          "young enough for ecosystem gaps"
+        ],
+        "top_issues": []
+      }
+    },
+    {
+      "repo": {
         "full_name": "cobusgreyling/loop-engineering",
         "name": "loop-engineering",
         "owner": "cobusgreyling",
         "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
         "url": "https://github.com/cobusgreyling/loop-engineering",
-        "stars": 11844,
-        "forks": 1584,
+        "stars": 11849,
+        "forks": 1583,
         "open_issues": 26,
         "language": "TypeScript",
         "topics": [
@@ -839,7 +713,7 @@
           "prompt-engineering"
         ],
         "created_at": "2026-06-09T06:28:20Z",
-        "pushed_at": "2026-11-27T08:02:05Z",
+        "pushed_at": "2026-11-28T02:24:13Z",
         "query_label": "prompt-systems"
       },
       "issues": [
@@ -921,9 +795,9 @@
         "owner": "coreyhaines31",
         "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
         "url": "https://github.com/coreyhaines31/marketingskills",
-        "stars": 62946,
-        "forks": 9192,
-        "open_issues": 82,
+        "stars": 63093,
+        "forks": 9220,
+        "open_issues": 87,
         "language": "JavaScript",
         "topics": [
           "agent-skills",
@@ -1010,12 +884,12 @@
         "angle": "Build a cross-agent skill index, installer, or quality benchmark around this ecosystem.",
         "scores": {
           "heat": 25.0,
-          "freshness": 10.0,
+          "freshness": 9.9,
           "velocity_proxy": 18.0,
           "issue_demand": 4.8,
           "extensibility": 14.0,
           "creator_fit": 3.0,
-          "open_surface": 7.7,
+          "open_surface": 7.8,
           "novelty": 8.0,
           "saturation_penalty": 6.0
         },
@@ -1045,160 +919,14 @@
     },
     {
       "repo": {
-        "full_name": "sickn33/agentic-awesome-skills",
-        "name": "agentic-awesome-skills",
-        "owner": "sickn33",
-        "description": "3,000+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.",
-        "url": "https://github.com/sickn33/agentic-awesome-skills",
-        "stars": 50430,
-        "forks": 7314,
-        "open_issues": 7,
-        "language": "Python",
-        "topics": [
-          "agent-skills",
-          "agentic-skills",
-          "ai-agent-skills",
-          "ai-agents",
-          "ai-coding",
-          "ai-workflows",
-          "antigravity",
-          "antigravity-skills",
-          "claude-code",
-          "claude-code-skills",
-          "codex-cli",
-          "codex-skills",
-          "cursor",
-          "cursor-skills",
-          "developer-tools",
-          "gemini-cli",
-          "gemini-skills",
-          "kiro",
-          "mcp",
-          "skill-library"
-        ],
-        "created_at": "2026-01-14T17:48:09Z",
-        "pushed_at": "2026-11-26T18:59:39Z",
-        "query_label": "codex-skills"
-      },
-      "issues": [
-        {
-          "number": 2437,
-          "title": "Suggest: add Claude Skills Directory as an Additional Source",
-          "url": "https://github.com/sickn33/agentic-awesome-skills/issues/2437",
-          "state": "closed",
-          "comments": 3,
-          "reactions": 0,
-          "created_at": "2026-11-20T11:51:32Z",
-          "updated_at": "2026-11-23T07:00:44Z",
-          "labels": []
-        },
-        {
-          "number": 2196,
-          "title": "Request: GitHub Support cleanup of my PR ref(s) (contributor email in commit metadata)",
-          "url": "https://github.com/sickn33/agentic-awesome-skills/issues/2196",
-          "state": "closed",
-          "comments": 1,
-          "reactions": 0,
-          "created_at": "2026-10-30T18:30:57Z",
-          "updated_at": "2026-11-03T08:52:27Z",
-          "labels": []
-        },
-        {
-          "number": 1977,
-          "title": "Arcmira setup summary omits required MCP connection",
-          "url": "https://github.com/sickn33/agentic-awesome-skills/issues/1977",
-          "state": "closed",
-          "comments": 1,
-          "reactions": 0,
-          "created_at": "2026-10-18T12:27:01Z",
-          "updated_at": "2026-10-19T09:03:59Z",
-          "labels": []
-        },
-        {
-          "number": 2136,
-          "title": "[BUG]",
-          "url": "https://github.com/sickn33/agentic-awesome-skills/issues/2136",
-          "state": "closed",
-          "comments": 1,
-          "reactions": 0,
-          "created_at": "2026-10-25T16:21:48Z",
-          "updated_at": "2026-10-27T07:26:56Z",
-          "labels": [
-            "bug"
-          ]
-        }
-      ],
-      "issue_error": "",
-      "radar": {
-        "score": 83.9,
-        "stage": "build-now",
-        "angle": "Build a cross-agent skill index, installer, or quality benchmark around this ecosystem.",
-        "scores": {
-          "heat": 25.0,
-          "freshness": 10.0,
-          "velocity_proxy": 18.0,
-          "issue_demand": 11.2,
-          "extensibility": 14.0,
-          "creator_fit": 0.0,
-          "open_surface": 3.6,
-          "novelty": 8.0,
-          "saturation_penalty": 6.0
-        },
-        "signals": [
-          "large existing audience",
-          "recently active",
-          "strong stars-per-day proxy",
-          "issue discussion shows demand",
-          "extension-shaped ecosystem",
-          "young enough for ecosystem gaps"
-        ],
-        "top_issues": [
-          {
-            "number": 2437,
-            "title": "Suggest: add Claude Skills Directory as an Additional Source",
-            "url": "https://github.com/sickn33/agentic-awesome-skills/issues/2437",
-            "state": "closed",
-            "comments": 3,
-            "reactions": 0,
-            "created_at": "2026-11-20T11:51:32Z",
-            "updated_at": "2026-11-23T07:00:44Z",
-            "labels": []
-          },
-          {
-            "number": 2196,
-            "title": "Request: GitHub Support cleanup of my PR ref(s) (contributor email in commit metadata)",
-            "url": "https://github.com/sickn33/agentic-awesome-skills/issues/2196",
-            "state": "closed",
-            "comments": 1,
-            "reactions": 0,
-            "created_at": "2026-10-30T18:30:57Z",
-            "updated_at": "2026-11-03T08:52:27Z",
-            "labels": []
-          },
-          {
-            "number": 1977,
-            "title": "Arcmira setup summary omits required MCP connection",
-            "url": "https://github.com/sickn33/agentic-awesome-skills/issues/1977",
-            "state": "closed",
-            "comments": 1,
-            "reactions": 0,
-            "created_at": "2026-10-18T12:27:01Z",
-            "updated_at": "2026-10-19T09:03:59Z",
-            "labels": []
-          }
-        ]
-      }
-    },
-    {
-      "repo": {
         "full_name": "samugit83/redamon",
         "name": "redamon",
         "owner": "samugit83",
         "description": "Open-source, self-hosted AI penetration testing framework: maps your attack surface into a graph, autonomously exploits it from a Kali sandbox with human approval gates, and opens PRs that fix what it finds. MCP both ways: plug in any MCP server as a tool, or drive RedAmon from Claude Code or your own agent.",
         "url": "https://github.com/samugit83/redamon",
-        "stars": 3514,
-        "forks": 758,
-        "open_issues": 15,
+        "stars": 3533,
+        "forks": 766,
+        "open_issues": 27,
         "language": "Python",
         "topics": [
           "agentic-ai",
@@ -1282,17 +1010,17 @@
       ],
       "issue_error": "",
       "radar": {
-        "score": 83.6,
+        "score": 84.5,
         "stage": "build-now",
         "angle": "Build a cross-agent skill index, installer, or quality benchmark around this ecosystem.",
         "scores": {
           "heat": 25.0,
-          "freshness": 9.9,
+          "freshness": 9.8,
           "velocity_proxy": 18.0,
           "issue_demand": 3.9,
           "extensibility": 14.0,
           "creator_fit": 0.0,
-          "open_surface": 4.8,
+          "open_surface": 5.8,
           "novelty": 8.0,
           "saturation_penalty": 0.0
         },
@@ -1327,7 +1055,7 @@
         "owner": "Nanako0129",
         "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
         "url": "https://github.com/Nanako0129/sepia",
-        "stars": 3965,
+        "stars": 3972,
         "forks": 246,
         "open_issues": 7,
         "language": "Python",
@@ -1418,9 +1146,9 @@
         "owner": "Leonxlnx",
         "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
         "url": "https://github.com/Leonxlnx/taste-skill",
-        "stars": 122148,
-        "forks": 8233,
-        "open_issues": 26,
+        "stars": 122465,
+        "forks": 8256,
+        "open_issues": 27,
         "language": "JavaScript",
         "topics": [
           "agent-skills",
@@ -1492,12 +1220,12 @@
         "angle": "Build a cross-agent skill index, installer, or quality benchmark around this ecosystem.",
         "scores": {
           "heat": 25.0,
-          "freshness": 10.0,
+          "freshness": 9.9,
           "velocity_proxy": 18.0,
           "issue_demand": 7.7,
           "extensibility": 14.0,
           "creator_fit": 4.0,
-          "open_surface": 5.7,
+          "open_surface": 5.8,
           "novelty": 8.0,
           "saturation_penalty": 10.0
         },
@@ -1531,6 +1259,253 @@
             "created_at": "2026-11-07T16:59:25Z",
             "updated_at": "2026-11-07T21:28:46Z",
             "labels": []
+          }
+        ]
+      }
+    },
+    {
+      "repo": {
+        "full_name": "apify/apify-mcp-server",
+        "name": "apify-mcp-server",
+        "owner": "apify",
+        "description": "The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store.",
+        "url": "https://github.com/apify/apify-mcp-server",
+        "stars": 18244,
+        "forks": 494,
+        "open_issues": 277,
+        "language": "TypeScript",
+        "topics": [
+          "agents",
+          "ai",
+          "mcp",
+          "mcp-server"
+        ],
+        "created_at": "2025-01-02T15:43:09Z",
+        "pushed_at": "2026-11-27T13:42:51Z",
+        "query_label": "mcp-tools"
+      },
+      "issues": [
+        {
+          "number": 1687,
+          "title": "test(evals): Move the MCP server Actor eval cases to the new MCP tools",
+          "url": "https://github.com/apify/apify-mcp-server/issues/1687",
+          "state": "closed",
+          "comments": 3,
+          "reactions": 0,
+          "created_at": "2026-10-24T16:41:00Z",
+          "updated_at": "2026-10-28T22:25:10Z",
+          "labels": [
+            "t-ai"
+          ]
+        },
+        {
+          "number": 1573,
+          "title": "call-actor with an empty actor fails as INTERNAL_ERROR",
+          "url": "https://github.com/apify/apify-mcp-server/issues/1573",
+          "state": "open",
+          "comments": 3,
+          "reactions": 0,
+          "created_at": "2026-10-14T08:30:29Z",
+          "updated_at": "2026-10-15T09:54:51Z",
+          "labels": [
+            "bug",
+            "t-ai"
+          ]
+        },
+        {
+          "number": 1695,
+          "title": "Elicitation",
+          "url": "https://github.com/apify/apify-mcp-server/issues/1695",
+          "state": "open",
+          "comments": 3,
+          "reactions": 0,
+          "created_at": "2026-10-26T11:54:12Z",
+          "updated_at": "2026-11-23T11:19:17Z",
+          "labels": [
+            "t-ai",
+            "product enhancement"
+          ]
+        },
+        {
+          "number": 1648,
+          "title": "feat: Bound the body the default web-fetch tool returns over its server interface",
+          "url": "https://github.com/apify/apify-mcp-server/issues/1648",
+          "state": "closed",
+          "comments": 3,
+          "reactions": 0,
+          "created_at": "2026-10-19T21:04:16Z",
+          "updated_at": "2026-10-28T11:10:59Z",
+          "labels": [
+            "t-ai",
+            "low priority"
+          ]
+        }
+      ],
+      "issue_error": "",
+      "radar": {
+        "score": 82.3,
+        "stage": "build-now",
+        "angle": "Build an MCP registry, security checker, config generator, or compatibility layer.",
+        "scores": {
+          "heat": 25.0,
+          "freshness": 10.0,
+          "velocity_proxy": 18.0,
+          "issue_demand": 4.3,
+          "extensibility": 12.0,
+          "creator_fit": 0.0,
+          "open_surface": 8.0,
+          "novelty": 5.0,
+          "saturation_penalty": 0.0
+        },
+        "signals": [
+          "large existing audience",
+          "recently active",
+          "strong stars-per-day proxy",
+          "extension-shaped ecosystem"
+        ],
+        "top_issues": [
+          {
+            "number": 1687,
+            "title": "test(evals): Move the MCP server Actor eval cases to the new MCP tools",
+            "url": "https://github.com/apify/apify-mcp-server/issues/1687",
+            "state": "closed",
+            "comments": 3,
+            "reactions": 0,
+            "created_at": "2026-10-24T16:41:00Z",
+            "updated_at": "2026-10-28T22:25:10Z",
+            "labels": [
+              "t-ai"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "repo": {
+        "full_name": "getsentry/MobileBuildMCP",
+        "name": "MobileBuildMCP",
+        "owner": "getsentry",
+        "description": "A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects.",
+        "url": "https://github.com/getsentry/MobileBuildMCP",
+        "stars": 6611,
+        "forks": 329,
+        "open_issues": 24,
+        "language": "TypeScript",
+        "topics": [
+          "mcp",
+          "mcp-server",
+          "model-context-protocol",
+          "model-context-protocol-servers",
+          "tag-non-production",
+          "xcode",
+          "xcodebuild"
+        ],
+        "created_at": "2025-03-09T17:31:18Z",
+        "pushed_at": "2026-11-19T03:33:58Z",
+        "query_label": "mcp-tools"
+      },
+      "issues": [
+        {
+          "number": 552,
+          "title": "[Bug]: Allow plain simulator launch without the detached console-PTY helper",
+          "url": "https://github.com/getsentry/MobileBuildMCP/issues/552",
+          "state": "closed",
+          "comments": 2,
+          "reactions": 0,
+          "created_at": "2026-10-15T02:04:27Z",
+          "updated_at": "2026-11-22T03:33:31Z",
+          "labels": [
+            "stale"
+          ]
+        },
+        {
+          "number": 556,
+          "title": "Added 1-click config generator and setup guide for MobileBuildMCP on MCP ServerList",
+          "url": "https://github.com/getsentry/MobileBuildMCP/issues/556",
+          "state": "closed",
+          "comments": 2,
+          "reactions": 0,
+          "created_at": "2026-10-19T07:13:03Z",
+          "updated_at": "2026-11-27T03:34:04Z",
+          "labels": [
+            "stale"
+          ]
+        },
+        {
+          "number": 563,
+          "title": "[Bug]: Read test_sim's per-test list from the result bundle, so an interleaved xcodebuild line doesn't drop a test",
+          "url": "https://github.com/getsentry/MobileBuildMCP/issues/563",
+          "state": "open",
+          "comments": 2,
+          "reactions": 0,
+          "created_at": "2026-10-28T21:08:02Z",
+          "updated_at": "2026-11-28T03:33:16Z",
+          "labels": [
+            "stale"
+          ]
+        },
+        {
+          "number": 564,
+          "title": "[Feature]: Let test results leave out the per-test list",
+          "url": "https://github.com/getsentry/MobileBuildMCP/issues/564",
+          "state": "open",
+          "comments": 1,
+          "reactions": 0,
+          "created_at": "2026-10-28T21:08:04Z",
+          "updated_at": "2026-11-28T03:33:14Z",
+          "labels": [
+            "stale"
+          ]
+        }
+      ],
+      "issue_error": "",
+      "radar": {
+        "score": 82.2,
+        "stage": "build-now",
+        "angle": "Build an MCP registry, security checker, config generator, or compatibility layer.",
+        "scores": {
+          "heat": 25.0,
+          "freshness": 9.2,
+          "velocity_proxy": 18.0,
+          "issue_demand": 7.3,
+          "extensibility": 12.0,
+          "creator_fit": 0.0,
+          "open_surface": 5.6,
+          "novelty": 5.0,
+          "saturation_penalty": 0.0
+        },
+        "signals": [
+          "large existing audience",
+          "recently active",
+          "strong stars-per-day proxy",
+          "extension-shaped ecosystem"
+        ],
+        "top_issues": [
+          {
+            "number": 556,
+            "title": "Added 1-click config generator and setup guide for MobileBuildMCP on MCP ServerList",
+            "url": "https://github.com/getsentry/MobileBuildMCP/issues/556",
+            "state": "closed",
+            "comments": 2,
+            "reactions": 0,
+            "created_at": "2026-10-19T07:13:03Z",
+            "updated_at": "2026-11-27T03:34:04Z",
+            "labels": [
+              "stale"
+            ]
+          },
+          {
+            "number": 564,
+            "title": "[Feature]: Let test results leave out the per-test list",
+            "url": "https://github.com/getsentry/MobileBuildMCP/issues/564",
+            "state": "open",
+            "comments": 1,
+            "reactions": 0,
+            "created_at": "2026-10-28T21:08:04Z",
+            "updated_at": "2026-11-28T03:33:14Z",
+            "labels": [
+              "stale"
+            ]
           }
         ]
       }
@@ -1612,12 +1587,12 @@
       ],
       "issue_error": "",
       "radar": {
-        "score": 81.2,
+        "score": 81.1,
         "stage": "build-now",
         "angle": "Build an MCP registry, security checker, config generator, or compatibility layer.",
         "scores": {
           "heat": 25.0,
-          "freshness": 7.2,
+          "freshness": 7.1,
           "velocity_proxy": 18.0,
           "issue_demand": 6.0,
           "extensibility": 7.0,
@@ -1659,13 +1634,132 @@
     },
     {
       "repo": {
+        "full_name": "LetsFG/LetsFG",
+        "name": "LetsFG",
+        "owner": "LetsFG",
+        "description": "Agent-native flight & hotel search and booking — MCP server, CLI, and Python/JS SDKs. Every airline in the world, major booking sites and OTAs, with per-flight reliability history.",
+        "url": "https://github.com/LetsFG/LetsFG",
+        "stars": 2306,
+        "forks": 158,
+        "open_issues": 8,
+        "language": "Python",
+        "topics": [
+          "ai",
+          "ai-agent",
+          "ai-agents",
+          "airline-api",
+          "booking",
+          "cli",
+          "flight-search",
+          "flights",
+          "hotel-api",
+          "hotel-booking",
+          "hotels",
+          "mcp",
+          "nodejs",
+          "openclaw",
+          "python-sdk",
+          "travel",
+          "travel-api",
+          "typescript-sdk"
+        ],
+        "created_at": "2026-03-01T11:17:50Z",
+        "pushed_at": "2026-11-27T21:02:51Z",
+        "query_label": "agent-native-cli"
+      },
+      "issues": [
+        {
+          "number": 233,
+          "title": "Filter flight search by airline alliance",
+          "url": "https://github.com/LetsFG/LetsFG/issues/233",
+          "state": "closed",
+          "comments": 2,
+          "reactions": 0,
+          "created_at": "2026-10-18T13:55:22Z",
+          "updated_at": "2026-10-21T16:57:03Z",
+          "labels": []
+        },
+        {
+          "number": 231,
+          "title": "Clarify direct PFS response contract: connecting segments, return directions and party pricing",
+          "url": "https://github.com/LetsFG/LetsFG/issues/231",
+          "state": "closed",
+          "comments": 1,
+          "reactions": 0,
+          "created_at": "2026-10-17T02:51:27Z",
+          "updated_at": "2026-10-21T16:14:18Z",
+          "labels": []
+        },
+        {
+          "number": 237,
+          "title": "Registry remote https://api.boostedchat.com/mcp answers 404",
+          "url": "https://github.com/LetsFG/LetsFG/issues/237",
+          "state": "closed",
+          "comments": 1,
+          "reactions": 0,
+          "created_at": "2026-10-26T13:34:21Z",
+          "updated_at": "2026-11-06T13:43:31Z",
+          "labels": []
+        },
+        {
+          "number": 242,
+          "title": "CI: the Python deterministic tests have failed on every push to main since 17 June, and the check isn't required",
+          "url": "https://github.com/LetsFG/LetsFG/issues/242",
+          "state": "open",
+          "comments": 0,
+          "reactions": 0,
+          "created_at": "2026-11-25T21:00:49Z",
+          "updated_at": "2026-11-25T21:00:49Z",
+          "labels": []
+        }
+      ],
+      "issue_error": "",
+      "radar": {
+        "score": 80.8,
+        "stage": "build-now",
+        "angle": "Build an MCP registry, security checker, config generator, or compatibility layer.",
+        "scores": {
+          "heat": 24.6,
+          "freshness": 10.0,
+          "velocity_proxy": 18.0,
+          "issue_demand": 3.5,
+          "extensibility": 13.0,
+          "creator_fit": 0.0,
+          "open_surface": 3.8,
+          "novelty": 8.0,
+          "saturation_penalty": 0.0
+        },
+        "signals": [
+          "large existing audience",
+          "recently active",
+          "strong stars-per-day proxy",
+          "extension-shaped ecosystem",
+          "young enough for ecosystem gaps"
+        ],
+        "top_issues": [
+          {
+            "number": 237,
+            "title": "Registry remote https://api.boostedchat.com/mcp answers 404",
+            "url": "https://github.com/LetsFG/LetsFG/issues/237",
+            "state": "closed",
+            "comments": 1,
+            "reactions": 0,
+            "created_at": "2026-10-26T13:34:21Z",
+            "updated_at": "2026-11-06T13:43:31Z",
+            "labels": []
+          }
+        ]
+      }
+    },
+    {
+      "repo": {
         "full_name": "1llu50ry/Decompile",
         "name": "Decompile",
         "owner": "1llu50ry",
         "description": "MCP (Model Context Protocol) server for game hacking & reverse engineering. A structured knowledge base of 6.000+ skills with full source code archives, specialized agents, and workflow tools - designed to be plugged into Claude, Codex, Cursor, or any MCP-compatible client.",
         "url": "https://github.com/1llu50ry/Decompile",
-        "stars": 618,
-        "forks": 112,
+        "stars": 621,
+        "forks": 114,
         "open_issues": 3,
         "language": "TypeScript",
         "topics": [
@@ -1725,7 +1819,7 @@
         "angle": "Build a cross-agent skill index, installer, or quality benchmark around this ecosystem.",
         "scores": {
           "heat": 20.9,
-          "freshness": 9.7,
+          "freshness": 9.6,
           "velocity_proxy": 18.0,
           "issue_demand": 3.9,
           "extensibility": 14.0,
@@ -1763,9 +1857,9 @@
         "owner": "affaan-m",
         "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
         "url": "https://github.com/affaan-m/ECC",
-        "stars": 311504,
-        "forks": 45763,
-        "open_issues": 231,
+        "stars": 312099,
+        "forks": 45854,
+        "open_issues": 243,
         "language": "JavaScript",
         "topics": [
           "ai-agents",
@@ -1829,12 +1923,12 @@
       ],
       "issue_error": "",
       "radar": {
-        "score": 80.7,
+        "score": 80.6,
         "stage": "build-now",
         "angle": "Build a cross-agent skill index, installer, or quality benchmark around this ecosystem.",
         "scores": {
           "heat": 25.0,
-          "freshness": 9.7,
+          "freshness": 9.6,
           "velocity_proxy": 18.0,
           "issue_demand": 6.0,
           "extensibility": 14.0,
@@ -1875,7 +1969,7 @@
         "url": "https://github.com/repoprompt/repoprompt-ce",
         "stars": 998,
         "forks": 141,
-        "open_issues": 159,
+        "open_issues": 162,
         "language": "Swift",
         "topics": [
           "ai-agents",
@@ -1889,7 +1983,7 @@
           "swift"
         ],
         "created_at": "2026-05-12T19:44:16Z",
-        "pushed_at": "2026-11-27T10:47:11Z",
+        "pushed_at": "2026-11-28T09:49:36Z",
         "query_label": "context-engineering"
       },
       "issues": [
@@ -1973,119 +2067,130 @@
     },
     {
       "repo": {
-        "full_name": "LetsFG/LetsFG",
-        "name": "LetsFG",
-        "owner": "LetsFG",
-        "description": "Agent-native flight & hotel search and booking — MCP server, CLI, and Python/JS SDKs. Every airline in the world, major booking sites and OTAs, with per-flight reliability history.",
-        "url": "https://github.com/LetsFG/LetsFG",
-        "stars": 2305,
-        "forks": 158,
-        "open_issues": 8,
+        "full_name": "bytedance/deer-flow",
+        "name": "deer-flow",
+        "owner": "bytedance",
+        "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+        "url": "https://github.com/bytedance/deer-flow",
+        "stars": 85891,
+        "forks": 12132,
+        "open_issues": 978,
         "language": "Python",
         "topics": [
+          "agent",
+          "agentic",
+          "agentic-framework",
+          "agentic-workflow",
           "ai",
-          "ai-agent",
           "ai-agents",
-          "airline-api",
-          "booking",
-          "cli",
-          "flight-search",
-          "flights",
-          "hotel-api",
-          "hotel-booking",
-          "hotels",
-          "mcp",
+          "deep-research",
+          "harness",
+          "langchain",
+          "langgraph",
+          "langmanus",
+          "llm",
+          "multi-agent",
           "nodejs",
-          "openclaw",
-          "python-sdk",
-          "travel",
-          "travel-api",
-          "typescript-sdk"
+          "podcast",
+          "python",
+          "superagent",
+          "typescript"
         ],
-        "created_at": "2026-03-01T11:17:50Z",
-        "pushed_at": "2026-11-15T16:18:44Z",
-        "query_label": "agent-native-cli"
+        "created_at": "2025-05-07T02:50:19Z",
+        "pushed_at": "2026-11-28T08:40:52Z",
+        "query_label": "agent-skills"
       },
       "issues": [
         {
-          "number": 233,
-          "title": "Filter flight search by airline alliance",
-          "url": "https://github.com/LetsFG/LetsFG/issues/233",
-          "state": "closed",
-          "comments": 2,
-          "reactions": 0,
-          "created_at": "2026-10-18T13:55:22Z",
-          "updated_at": "2026-10-21T16:57:03Z",
-          "labels": []
-        },
-        {
-          "number": 231,
-          "title": "Clarify direct PFS response contract: connecting segments, return directions and party pricing",
-          "url": "https://github.com/LetsFG/LetsFG/issues/231",
-          "state": "closed",
-          "comments": 1,
-          "reactions": 0,
-          "created_at": "2026-10-17T02:51:27Z",
-          "updated_at": "2026-10-21T16:14:18Z",
-          "labels": []
-        },
-        {
-          "number": 237,
-          "title": "Registry remote https://api.boostedchat.com/mcp answers 404",
-          "url": "https://github.com/LetsFG/LetsFG/issues/237",
-          "state": "closed",
-          "comments": 1,
-          "reactions": 0,
-          "created_at": "2026-10-26T13:34:21Z",
-          "updated_at": "2026-11-06T13:43:31Z",
-          "labels": []
-        },
-        {
-          "number": 242,
-          "title": "CI: the Python deterministic tests have failed on every push to main since 17 June, and the check isn't required",
-          "url": "https://github.com/LetsFG/LetsFG/issues/242",
+          "number": 7884,
+          "title": "DeerFlow Roadmap — 2.3.0 and Beyond",
+          "url": "https://github.com/bytedance/deer-flow/issues/7884",
           "state": "open",
-          "comments": 0,
+          "comments": 13,
+          "reactions": 4,
+          "created_at": "2026-11-04T08:29:20Z",
+          "updated_at": "2026-11-28T08:33:53Z",
+          "labels": [
+            "RFC",
+            "important"
+          ]
+        },
+        {
+          "number": 7050,
+          "title": "[RFC] Shared IM natural-language controls and task result delivery / 统一 IM 自然语言控制与结果回传",
+          "url": "https://github.com/bytedance/deer-flow/issues/7050",
+          "state": "open",
+          "comments": 10,
           "reactions": 0,
-          "created_at": "2026-11-25T21:00:49Z",
-          "updated_at": "2026-11-25T21:00:49Z",
+          "created_at": "2026-10-18T04:49:32Z",
+          "updated_at": "2026-11-13T08:08:15Z",
+          "labels": [
+            "RFC"
+          ]
+        },
+        {
+          "number": 8214,
+          "title": "[bug] Loop detection drops a whole batch of parallel tool calls once it reaches the per-tool hard limit",
+          "url": "https://github.com/bytedance/deer-flow/issues/8214",
+          "state": "closed",
+          "comments": 8,
+          "reactions": 0,
+          "created_at": "2026-11-13T06:06:18Z",
+          "updated_at": "2026-11-18T06:28:39Z",
           "labels": []
+        },
+        {
+          "number": 7840,
+          "title": "RFC: Pluggable harness drivers — DeerFlow + DSH under a single control plane",
+          "url": "https://github.com/bytedance/deer-flow/issues/7840",
+          "state": "open",
+          "comments": 6,
+          "reactions": 0,
+          "created_at": "2026-11-03T02:07:58Z",
+          "updated_at": "2026-11-26T15:57:45Z",
+          "labels": [
+            "enhancement",
+            "RFC",
+            "needs-triage"
+          ]
         }
       ],
       "issue_error": "",
       "radar": {
-        "score": 79.9,
-        "stage": "probe-this-week",
-        "angle": "Build an MCP registry, security checker, config generator, or compatibility layer.",
+        "score": 80.0,
+        "stage": "build-now",
+        "angle": "Build a cross-agent skill index, installer, or quality benchmark around this ecosystem.",
         "scores": {
-          "heat": 24.6,
-          "freshness": 9.1,
+          "heat": 25.0,
+          "freshness": 10.0,
           "velocity_proxy": 18.0,
-          "issue_demand": 3.5,
-          "extensibility": 13.0,
-          "creator_fit": 0.0,
-          "open_surface": 3.8,
-          "novelty": 8.0,
-          "saturation_penalty": 0.0
+          "issue_demand": 6.0,
+          "extensibility": 12.0,
+          "creator_fit": 2.0,
+          "open_surface": 8.0,
+          "novelty": 5.0,
+          "saturation_penalty": 6.0
         },
         "signals": [
           "large existing audience",
           "recently active",
           "strong stars-per-day proxy",
-          "extension-shaped ecosystem",
-          "young enough for ecosystem gaps"
+          "extension-shaped ecosystem"
         ],
         "top_issues": [
           {
-            "number": 237,
-            "title": "Registry remote https://api.boostedchat.com/mcp answers 404",
-            "url": "https://github.com/LetsFG/LetsFG/issues/237",
-            "state": "closed",
-            "comments": 1,
-            "reactions": 0,
-            "created_at": "2026-10-26T13:34:21Z",
-            "updated_at": "2026-11-06T13:43:31Z",
-            "labels": []
+            "number": 7884,
+            "title": "DeerFlow Roadmap — 2.3.0 and Beyond",
+            "url": "https://github.com/bytedance/deer-flow/issues/7884",
+            "state": "open",
+            "comments": 13,
+            "reactions": 4,
+            "created_at": "2026-11-04T08:29:20Z",
+            "updated_at": "2026-11-28T08:33:53Z",
+            "labels": [
+              "RFC",
+              "important"
+            ]
           }
         ]
       }
@@ -2097,7 +2202,7 @@
         "owner": "rohitg00",
         "description": "Claude Code learns from your corrections: self-correcting memory that compounds over 50+ sessions. Context engineering, parallel worktrees, agent teams, and 17 battle-tested skills.",
         "url": "https://github.com/rohitg00/pro-workflow",
-        "stars": 2971,
+        "stars": 2972,
         "forks": 299,
         "open_issues": 34,
         "language": "JavaScript",
@@ -2152,12 +2257,12 @@
       ],
       "issue_error": "",
       "radar": {
-        "score": 79.3,
+        "score": 79.2,
         "stage": "probe-this-week",
         "angle": "Build a cross-agent skill index, installer, or quality benchmark around this ecosystem.",
         "scores": {
           "heat": 25.0,
-          "freshness": 5.1,
+          "freshness": 5.0,
           "velocity_proxy": 18.0,
           "issue_demand": 3.0,
           "extensibility": 14.0,
@@ -2189,131 +2294,14 @@
     },
     {
       "repo": {
-        "full_name": "getsentry/MobileBuildMCP",
-        "name": "MobileBuildMCP",
-        "owner": "getsentry",
-        "description": "A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects.",
-        "url": "https://github.com/getsentry/MobileBuildMCP",
-        "stars": 6606,
-        "forks": 329,
-        "open_issues": 24,
-        "language": "TypeScript",
-        "topics": [
-          "mcp",
-          "mcp-server",
-          "model-context-protocol",
-          "model-context-protocol-servers",
-          "tag-non-production",
-          "xcode",
-          "xcodebuild"
-        ],
-        "created_at": "2025-03-09T17:31:18Z",
-        "pushed_at": "2026-11-19T03:33:58Z",
-        "query_label": "mcp-tools"
-      },
-      "issues": [
-        {
-          "number": 552,
-          "title": "[Bug]: Allow plain simulator launch without the detached console-PTY helper",
-          "url": "https://github.com/getsentry/MobileBuildMCP/issues/552",
-          "state": "closed",
-          "comments": 2,
-          "reactions": 0,
-          "created_at": "2026-10-15T02:04:27Z",
-          "updated_at": "2026-11-22T03:33:31Z",
-          "labels": [
-            "stale"
-          ]
-        },
-        {
-          "number": 551,
-          "title": "[Bug]: CLI debugging attach --pid rejected when sessionDefaults set bundleId",
-          "url": "https://github.com/getsentry/MobileBuildMCP/issues/551",
-          "state": "closed",
-          "comments": 2,
-          "reactions": 0,
-          "created_at": "2026-10-13T19:01:21Z",
-          "updated_at": "2026-11-20T03:33:28Z",
-          "labels": [
-            "stale"
-          ]
-        },
-        {
-          "number": 550,
-          "title": "[Bug]: debugging attach --wait-for returns 'No running process found' instead of waiting for launch",
-          "url": "https://github.com/getsentry/MobileBuildMCP/issues/550",
-          "state": "closed",
-          "comments": 2,
-          "reactions": 0,
-          "created_at": "2026-10-13T19:01:19Z",
-          "updated_at": "2026-11-20T03:33:31Z",
-          "labels": [
-            "stale"
-          ]
-        },
-        {
-          "number": 556,
-          "title": "Added 1-click config generator and setup guide for MobileBuildMCP on MCP ServerList",
-          "url": "https://github.com/getsentry/MobileBuildMCP/issues/556",
-          "state": "closed",
-          "comments": 2,
-          "reactions": 0,
-          "created_at": "2026-10-19T07:13:03Z",
-          "updated_at": "2026-11-27T03:34:04Z",
-          "labels": [
-            "stale"
-          ]
-        }
-      ],
-      "issue_error": "",
-      "radar": {
-        "score": 78.8,
-        "stage": "probe-this-week",
-        "angle": "Build an MCP registry, security checker, config generator, or compatibility layer.",
-        "scores": {
-          "heat": 25.0,
-          "freshness": 9.3,
-          "velocity_proxy": 18.0,
-          "issue_demand": 3.9,
-          "extensibility": 12.0,
-          "creator_fit": 0.0,
-          "open_surface": 5.6,
-          "novelty": 5.0,
-          "saturation_penalty": 0.0
-        },
-        "signals": [
-          "large existing audience",
-          "recently active",
-          "strong stars-per-day proxy",
-          "extension-shaped ecosystem"
-        ],
-        "top_issues": [
-          {
-            "number": 556,
-            "title": "Added 1-click config generator and setup guide for MobileBuildMCP on MCP ServerList",
-            "url": "https://github.com/getsentry/MobileBuildMCP/issues/556",
-            "state": "closed",
-            "comments": 2,
-            "reactions": 0,
-            "created_at": "2026-10-19T07:13:03Z",
-            "updated_at": "2026-11-27T03:34:04Z",
-            "labels": [
-              "stale"
-            ]
-          }
-        ]
-      }
-    },
-    {
-      "repo": {
         "full_name": "OpenMontageInc/OpenMontage",
         "name": "OpenMontage",
         "owner": "OpenMontageInc",
         "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
         "url": "https://github.com/OpenMontageInc/OpenMontage",
-        "stars": 83755,
-        "forks": 11419,
-        "open_issues": 358,
+        "stars": 83958,
+        "forks": 11450,
+        "open_issues": 359,
         "language": "Python",
         "topics": [
           "agent",
@@ -2388,12 +2376,12 @@
       ],
       "issue_error": "",
       "radar": {
-        "score": 77.4,
+        "score": 77.3,
         "stage": "probe-this-week",
         "angle": "Build a cross-agent skill index, installer, or quality benchmark around this ecosystem.",
         "scores": {
           "heat": 25.0,
-          "freshness": 9.1,
+          "freshness": 9.0,
           "velocity_proxy": 18.0,
           "issue_demand": 4.3,
           "extensibility": 7.0,
@@ -2430,9 +2418,9 @@
         "owner": "obra",
         "description": "An agentic skills framework & software development methodology that works.",
         "url": "https://github.com/obra/superpowers",
-        "stars": 327869,
-        "forks": 29113,
-        "open_issues": 373,
+        "stars": 328634,
+        "forks": 29222,
+        "open_issues": 377,
         "language": "Shell",
         "topics": [
           "ai",
@@ -2445,7 +2433,7 @@
           "superpowers"
         ],
         "created_at": "2025-10-09T19:45:18Z",
-        "pushed_at": "2026-11-26T11:33:33Z",
+        "pushed_at": "2026-11-28T05:13:56Z",
         "query_label": "agent-skills"
       },
       "issues": [
@@ -2454,10 +2442,10 @@
           "title": "v7's brainstorm questions are rather annoying",
           "url": "https://github.com/obra/superpowers/issues/2530",
           "state": "open",
-          "comments": 49,
+          "comments": 50,
           "reactions": 39,
           "created_at": "2026-10-16T03:32:58Z",
-          "updated_at": "2026-11-26T20:48:42Z",
+          "updated_at": "2026-11-28T08:21:34Z",
           "labels": [
             "bug",
             "skill:brainstorming",
@@ -2560,14 +2548,124 @@
     },
     {
       "repo": {
+        "full_name": "tt-a1i/archify",
+        "name": "archify",
+        "owner": "tt-a1i",
+        "description": "Turn any idea, plan, or codebase into an interactive diagram or one-page answer: 10 diagram types, Architecture Diagnosis, Story video and PR walkthroughs. An Agent Skill for Claude Code, Codex, Cursor and more.",
+        "url": "https://github.com/tt-a1i/archify",
+        "stars": 101109,
+        "forks": 6928,
+        "open_issues": 359,
+        "language": "JavaScript",
+        "topics": [
+          "agent-skills",
+          "ai-agents",
+          "architecture-diagram",
+          "claude-code",
+          "claude-skills",
+          "code-analysis",
+          "codex",
+          "coding-agents",
+          "deepseek-harness",
+          "developer-tools",
+          "diagrams",
+          "diagrams-as-code",
+          "dsh-plugin",
+          "flowchart",
+          "llm",
+          "mermaid",
+          "opencode",
+          "software-architecture",
+          "system-design",
+          "visualization"
+        ],
+        "created_at": "2026-04-15T05:27:37Z",
+        "pushed_at": "2026-11-28T03:28:44Z",
+        "query_label": "claude-code-skills"
+      },
+      "issues": [
+        {
+          "number": 1068,
+          "title": "feat(artifacts): polish standalone page reading and interaction experience",
+          "url": "https://github.com/tt-a1i/archify/issues/1068",
+          "state": "open",
+          "comments": 12,
+          "reactions": 0,
+          "created_at": "2026-10-23T11:42:30Z",
+          "updated_at": "2026-10-24T12:03:41Z",
+          "labels": []
+        },
+        {
+          "number": 1073,
+          "title": "[Bug]: Windows restricted sandbox rejects readable ancestor via realpathSync.native (EPERM)",
+          "url": "https://github.com/tt-a1i/archify/issues/1073",
+          "state": "open",
+          "comments": 5,
+          "reactions": 0,
+          "created_at": "2026-10-23T18:40:43Z",
+          "updated_at": "2026-11-06T17:17:28Z",
+          "labels": []
+        },
+        {
+          "number": 1024,
+          "title": "[Bug]: Viewer export filenames drop non-Latin diagram titles (every zh/ko/ru export is \"diagram.png\")",
+          "url": "https://github.com/tt-a1i/archify/issues/1024",
+          "state": "open",
+          "comments": 5,
+          "reactions": 0,
+          "created_at": "2026-10-19T18:51:21Z",
+          "updated_at": "2026-10-26T23:55:22Z",
+          "labels": []
+        },
+        {
+          "number": 1195,
+          "title": "[Proposal]: Leave the editorial badges out of the Viewer an explainer opens",
+          "url": "https://github.com/tt-a1i/archify/issues/1195",
+          "state": "closed",
+          "comments": 5,
+          "reactions": 0,
+          "created_at": "2026-11-04T06:22:24Z",
+          "updated_at": "2026-11-17T04:41:46Z",
+          "labels": []
+        }
+      ],
+      "issue_error": "",
+      "radar": {
+        "score": 77.0,
+        "stage": "probe-this-week",
+        "angle": "Build a cross-agent skill index, installer, or quality benchmark around this ecosystem.",
+        "scores": {
+          "heat": 25.0,
+          "freshness": 10.0,
+          "velocity_proxy": 18.0,
+          "issue_demand": 0.0,
+          "extensibility": 14.0,
+          "creator_fit": 4.0,
+          "open_surface": 8.0,
+          "novelty": 8.0,
+          "saturation_penalty": 10.0
+        },
+        "signals": [
+          "large existing audience",
+          "recently active",
+          "strong stars-per-day proxy",
+          "extension-shaped ecosystem",
+          "young enough for ecosystem gaps",
+          "high saturation risk"
+        ],
+        "top_issues": []
+      }
+    },
+    {
+      "repo": {
         "full_name": "headroomlabs-ai/headroom",
         "name": "headroom",
         "owner": "headroomlabs-ai",
         "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
         "url": "https://github.com/headroomlabs-ai/headroom",
-        "stars": 80969,
-        "forks": 6360,
-        "open_issues": 337,
+        "stars": 81039,
+        "forks": 6364,
+        "open_issues": 341,
         "language": "Python",
         "topics": [
           "agent",
@@ -2592,7 +2690,7 @@
           "typescript"
         ],
         "created_at": "2026-01-07T19:58:51Z",
-        "pushed_at": "2026-11-27T01:24:34Z",
+        "pushed_at": "2026-11-27T18:14:41Z",
         "query_label": "mcp-tools"
       },
       "issues": [
@@ -2675,122 +2773,12 @@
     },
     {
       "repo": {
-        "full_name": "tt-a1i/archify",
-        "name": "archify",
-        "owner": "tt-a1i",
-        "description": "Turn any idea, plan, or codebase into an interactive diagram or one-page answer: 10 diagram types, Architecture Diagnosis, Story video and PR walkthroughs. An Agent Skill for Claude Code, Codex, Cursor and more.",
-        "url": "https://github.com/tt-a1i/archify",
-        "stars": 100760,
-        "forks": 6905,
-        "open_issues": 363,
-        "language": "JavaScript",
-        "topics": [
-          "agent-skills",
-          "ai-agents",
-          "architecture-diagram",
-          "claude-code",
-          "claude-skills",
-          "code-analysis",
-          "codex",
-          "coding-agents",
-          "deepseek-harness",
-          "developer-tools",
-          "diagrams",
-          "diagrams-as-code",
-          "dsh-plugin",
-          "flowchart",
-          "llm",
-          "mermaid",
-          "opencode",
-          "software-architecture",
-          "system-design",
-          "visualization"
-        ],
-        "created_at": "2026-04-15T05:27:37Z",
-        "pushed_at": "2026-11-26T01:45:04Z",
-        "query_label": "claude-code-skills"
-      },
-      "issues": [
-        {
-          "number": 1068,
-          "title": "feat(artifacts): polish standalone page reading and interaction experience",
-          "url": "https://github.com/tt-a1i/archify/issues/1068",
-          "state": "open",
-          "comments": 12,
-          "reactions": 0,
-          "created_at": "2026-10-23T11:42:30Z",
-          "updated_at": "2026-10-24T12:03:41Z",
-          "labels": []
-        },
-        {
-          "number": 1073,
-          "title": "[Bug]: Windows restricted sandbox rejects readable ancestor via realpathSync.native (EPERM)",
-          "url": "https://github.com/tt-a1i/archify/issues/1073",
-          "state": "open",
-          "comments": 5,
-          "reactions": 0,
-          "created_at": "2026-10-23T18:40:43Z",
-          "updated_at": "2026-11-06T17:17:28Z",
-          "labels": []
-        },
-        {
-          "number": 903,
-          "title": "[Bug]: Note-overlap repair dead-ends when a wrapped note reaches several messages",
-          "url": "https://github.com/tt-a1i/archify/issues/903",
-          "state": "open",
-          "comments": 5,
-          "reactions": 0,
-          "created_at": "2026-10-13T15:07:27Z",
-          "updated_at": "2026-10-15T09:10:25Z",
-          "labels": []
-        },
-        {
-          "number": 1024,
-          "title": "[Bug]: Viewer export filenames drop non-Latin diagram titles (every zh/ko/ru export is \"diagram.png\")",
-          "url": "https://github.com/tt-a1i/archify/issues/1024",
-          "state": "open",
-          "comments": 5,
-          "reactions": 0,
-          "created_at": "2026-10-19T18:51:21Z",
-          "updated_at": "2026-10-26T23:55:22Z",
-          "labels": []
-        }
-      ],
-      "issue_error": "",
-      "radar": {
-        "score": 76.9,
-        "stage": "probe-this-week",
-        "angle": "Build a cross-agent skill index, installer, or quality benchmark around this ecosystem.",
-        "scores": {
-          "heat": 25.0,
-          "freshness": 9.9,
-          "velocity_proxy": 18.0,
-          "issue_demand": 0.0,
-          "extensibility": 14.0,
-          "creator_fit": 4.0,
-          "open_surface": 8.0,
-          "novelty": 8.0,
-          "saturation_penalty": 10.0
-        },
-        "signals": [
-          "large existing audience",
-          "recently active",
-          "strong stars-per-day proxy",
-          "extension-shaped ecosystem",
-          "young enough for ecosystem gaps",
-          "high saturation risk"
-        ],
-        "top_issues": []
-      }
-    },
-    {
-      "repo": {
         "full_name": "raullenchai/Rapid-MLX",
         "name": "Rapid-MLX",
         "owner": "raullenchai",
         "description": "Rapid-MLX is an open-source (Apache 2.0) OpenAI- and Anthropic-compatible LLM inference server for Apple Silicon, built on MLX, focused on reliable tool calling for coding agents. Up to 4× faster than Apple's MLX (mlx-lm) on the same weights.",
         "url": "https://github.com/raullenchai/Rapid-MLX",
-        "stars": 4190,
+        "stars": 4191,
         "forks": 445,
         "open_issues": 25,
         "language": "Python",
@@ -2817,7 +2805,7 @@
           "tool-calling"
         ],
         "created_at": "2026-02-25T00:41:44Z",
-        "pushed_at": "2026-11-27T04:57:12Z",
+        "pushed_at": "2026-11-28T07:33:19Z",
         "query_label": "mcp-tools"
       },
       "issues": [
@@ -2844,22 +2832,6 @@
           "labels": []
         },
         {
-          "number": 4589,
-          "title": "perf(mtp): on M3 Ultra a batched verify is cheap (B=8, S=3 costs 1.5× a B=8 single-token step), but the continuous self-MTP cohort still loses to plain batching — ~12–17 ms/step of non-model overhead",
-          "url": "https://github.com/raullenchai/Rapid-MLX/issues/4589",
-          "state": "closed",
-          "comments": 5,
-          "reactions": 0,
-          "created_at": "2026-10-13T02:46:05Z",
-          "updated_at": "2026-10-17T21:46:33Z",
-          "labels": [
-            "benchmark",
-            "engine/server",
-            "research",
-            "performance"
-          ]
-        },
-        {
           "number": 4674,
           "title": "Search frequent-workload speedups with a greater-than-10-percent admission threshold",
           "url": "https://github.com/raullenchai/Rapid-MLX/issues/4674",
@@ -2869,6 +2841,22 @@
           "created_at": "2026-10-15T13:46:45Z",
           "updated_at": "2026-10-15T15:07:27Z",
           "labels": []
+        },
+        {
+          "number": 4853,
+          "title": "Desktop UX: Ordinary English chat invokes online tools while Personal Intelligence shows Off",
+          "url": "https://github.com/raullenchai/Rapid-MLX/issues/4853",
+          "state": "closed",
+          "comments": 5,
+          "reactions": 0,
+          "created_at": "2026-10-18T14:37:22Z",
+          "updated_at": "2026-10-18T16:14:34Z",
+          "labels": [
+            "bug",
+            "desktop-app",
+            "ux",
+            "P1"
+          ]
         }
       ],
       "issue_error": "",
@@ -2904,9 +2892,9 @@
         "owner": "microsoft",
         "description": "A fork of Windows Terminal with native agent integration, right in your command line.",
         "url": "https://github.com/microsoft/intelligent-terminal",
-        "stars": 2283,
+        "stars": 2285,
         "forks": 187,
-        "open_issues": 150,
+        "open_issues": 151,
         "language": "C++",
         "topics": [
           "acp",
@@ -2990,12 +2978,12 @@
       ],
       "issue_error": "",
       "radar": {
-        "score": 76.6,
+        "score": 76.5,
         "stage": "probe-this-week",
         "angle": "Build an agent-native CLI wrapper with JSON output, examples, and deterministic workflows.",
         "scores": {
           "heat": 24.7,
-          "freshness": 9.9,
+          "freshness": 9.8,
           "velocity_proxy": 18.0,
           "issue_demand": 0.0,
           "extensibility": 8.0,
@@ -3021,9 +3009,9 @@
         "owner": "blader",
         "description": "Agent skill that removes signs of AI-generated writing from text",
         "url": "https://github.com/blader/humanizer",
-        "stars": 74159,
-        "forks": 5835,
-        "open_issues": 9,
+        "stars": 74465,
+        "forks": 5856,
+        "open_issues": 10,
         "language": "Python",
         "topics": [
           "agent-skills",
@@ -3097,12 +3085,12 @@
         "angle": "Build a cross-agent skill index, installer, or quality benchmark around this ecosystem.",
         "scores": {
           "heat": 25.0,
-          "freshness": 9.4,
+          "freshness": 9.3,
           "velocity_proxy": 18.0,
           "issue_demand": 3.5,
           "extensibility": 14.0,
           "creator_fit": 0.0,
-          "open_surface": 4.0,
+          "open_surface": 4.2,
           "novelty": 8.0,
           "saturation_penalty": 6.0
         },
@@ -3135,8 +3123,8 @@
         "owner": "K-Dense-AI",
         "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
         "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-        "stars": 58651,
-        "forks": 5128,
+        "stars": 58746,
+        "forks": 5137,
         "open_issues": 102,
         "language": "Python",
         "topics": [
@@ -3213,12 +3201,12 @@
       ],
       "issue_error": "",
       "radar": {
-        "score": 75.7,
+        "score": 75.6,
         "stage": "probe-this-week",
         "angle": "Build a cross-agent skill index, installer, or quality benchmark around this ecosystem.",
         "scores": {
           "heat": 25.0,
-          "freshness": 9.7,
+          "freshness": 9.6,
           "velocity_proxy": 18.0,
           "issue_demand": 0.0,
           "extensibility": 14.0,
@@ -3243,9 +3231,9 @@
         "owner": "HKUDS",
         "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
         "url": "https://github.com/HKUDS/CLI-Anything",
-        "stars": 66664,
-        "forks": 6090,
-        "open_issues": 331,
+        "stars": 67198,
+        "forks": 6191,
+        "open_issues": 342,
         "language": "Python",
         "topics": [],
         "created_at": "2026-03-08T13:52:57Z",
@@ -3300,12 +3288,12 @@
       ],
       "issue_error": "",
       "radar": {
-        "score": 75.3,
+        "score": 75.2,
         "stage": "probe-this-week",
         "angle": "Build an agent-native CLI wrapper with JSON output, examples, and deterministic workflows.",
         "scores": {
           "heat": 25.0,
-          "freshness": 9.4,
+          "freshness": 9.3,
           "velocity_proxy": 18.0,
           "issue_demand": 6.9,
           "extensibility": 6.0,
@@ -3348,120 +3336,14 @@
     },
     {
       "repo": {
-        "full_name": "Datus-ai/Datus-agent",
-        "name": "Datus-agent",
-        "owner": "Datus-ai",
-        "description": "The Future of Data Engineering — A CLI SQL client for the modern data stack, enabling AI-native context engineering for data.",
-        "url": "https://github.com/Datus-ai/Datus-agent",
-        "stars": 1949,
-        "forks": 293,
-        "open_issues": 40,
-        "language": "Python",
-        "topics": [],
-        "created_at": "2025-07-04T15:43:40Z",
-        "pushed_at": "2026-11-27T09:41:39Z",
-        "query_label": "agent-native-cli"
-      },
-      "issues": [
-        {
-          "number": 1563,
-          "title": "[Bug]: Complete flat Ossie document support in semantic authoring",
-          "url": "https://github.com/Datus-ai/Datus-agent/issues/1563",
-          "state": "closed",
-          "comments": 2,
-          "reactions": 0,
-          "created_at": "2026-10-29T06:06:32Z",
-          "updated_at": "2026-11-09T08:01:36Z",
-          "labels": [
-            "bug",
-            "documentation"
-          ]
-        },
-        {
-          "number": 1673,
-          "title": "[Bug]: Semantic model reconciliation and draft startup can deadlock the backend",
-          "url": "https://github.com/Datus-ai/Datus-agent/issues/1673",
-          "state": "closed",
-          "comments": 1,
-          "reactions": 0,
-          "created_at": "2026-11-20T07:49:38Z",
-          "updated_at": "2026-11-20T07:51:34Z",
-          "labels": [
-            "bug"
-          ]
-        },
-        {
-          "number": 1542,
-          "title": "bug(datus-postgresql): PostgreSQLConnector._get_ddl omits FOREIGN KEY constraints in reconstructed table DDL",
-          "url": "https://github.com/Datus-ai/Datus-agent/issues/1542",
-          "state": "closed",
-          "comments": 0,
-          "reactions": 0,
-          "created_at": "2026-10-26T09:04:23Z",
-          "updated_at": "2026-10-29T02:44:13Z",
-          "labels": [
-            "bug"
-          ]
-        },
-        {
-          "number": 1529,
-          "title": "fix(mcp): synchronous tool calls block backend event loop during StarRocks socket reads",
-          "url": "https://github.com/Datus-ai/Datus-agent/issues/1529",
-          "state": "closed",
-          "comments": 0,
-          "reactions": 0,
-          "created_at": "2026-10-22T02:15:46Z",
-          "updated_at": "2026-10-23T06:41:59Z",
-          "labels": []
-        }
-      ],
-      "issue_error": "",
-      "radar": {
-        "score": 75.1,
-        "stage": "probe-this-week",
-        "angle": "Build an MCP registry, security checker, config generator, or compatibility layer.",
-        "scores": {
-          "heat": 24.7,
-          "freshness": 10.0,
-          "velocity_proxy": 18.0,
-          "issue_demand": 3.0,
-          "extensibility": 8.0,
-          "creator_fit": 0.0,
-          "open_surface": 6.5,
-          "novelty": 5.0,
-          "saturation_penalty": 0.0
-        },
-        "signals": [
-          "large existing audience",
-          "recently active",
-          "strong stars-per-day proxy",
-          "extension-shaped ecosystem"
-        ],
-        "top_issues": [
-          {
-            "number": 1529,
-            "title": "fix(mcp): synchronous tool calls block backend event loop during StarRocks socket reads",
-            "url": "https://github.com/Datus-ai/Datus-agent/issues/1529",
-            "state": "closed",
-            "comments": 0,
-            "reactions": 0,
-            "created_at": "2026-10-22T02:15:46Z",
-            "updated_at": "2026-10-23T06:41:59Z",
-            "labels": []
-          }
-        ]
-      }
-    },
-    {
-      "repo": {
         "full_name": "Graphify-Labs/graphify",
         "name": "graphify",
         "owner": "Graphify-Labs",
         "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
         "url": "https://github.com/Graphify-Labs/graphify",
-        "stars": 154046,
-        "forks": 14824,
-        "open_issues": 1752,
+        "stars": 154392,
+        "forks": 14855,
+        "open_issues": 1758,
         "language": "Python",
         "topics": [
           "ai-agents",
@@ -3486,7 +3368,7 @@
           "tree-sitter"
         ],
         "created_at": "2026-04-03T15:49:07Z",
-        "pushed_at": "2026-11-27T02:53:36Z",
+        "pushed_at": "2026-11-28T04:04:49Z",
         "query_label": "claude-code-skills"
       },
       "issues": [
@@ -3564,6 +3446,112 @@
     },
     {
       "repo": {
+        "full_name": "Datus-ai/Datus-agent",
+        "name": "Datus-agent",
+        "owner": "Datus-ai",
+        "description": "The Future of Data Engineering — A CLI SQL client for the modern data stack, enabling AI-native context engineering for data.",
+        "url": "https://github.com/Datus-ai/Datus-agent",
+        "stars": 1950,
+        "forks": 293,
+        "open_issues": 40,
+        "language": "Python",
+        "topics": [],
+        "created_at": "2025-07-04T15:43:40Z",
+        "pushed_at": "2026-11-27T09:41:39Z",
+        "query_label": "agent-native-cli"
+      },
+      "issues": [
+        {
+          "number": 1563,
+          "title": "[Bug]: Complete flat Ossie document support in semantic authoring",
+          "url": "https://github.com/Datus-ai/Datus-agent/issues/1563",
+          "state": "closed",
+          "comments": 2,
+          "reactions": 0,
+          "created_at": "2026-10-29T06:06:32Z",
+          "updated_at": "2026-11-09T08:01:36Z",
+          "labels": [
+            "bug",
+            "documentation"
+          ]
+        },
+        {
+          "number": 1673,
+          "title": "[Bug]: Semantic model reconciliation and draft startup can deadlock the backend",
+          "url": "https://github.com/Datus-ai/Datus-agent/issues/1673",
+          "state": "closed",
+          "comments": 1,
+          "reactions": 0,
+          "created_at": "2026-11-20T07:49:38Z",
+          "updated_at": "2026-11-20T07:51:34Z",
+          "labels": [
+            "bug"
+          ]
+        },
+        {
+          "number": 1542,
+          "title": "bug(datus-postgresql): PostgreSQLConnector._get_ddl omits FOREIGN KEY constraints in reconstructed table DDL",
+          "url": "https://github.com/Datus-ai/Datus-agent/issues/1542",
+          "state": "closed",
+          "comments": 0,
+          "reactions": 0,
+          "created_at": "2026-10-26T09:04:23Z",
+          "updated_at": "2026-10-29T02:44:13Z",
+          "labels": [
+            "bug"
+          ]
+        },
+        {
+          "number": 1529,
+          "title": "fix(mcp): synchronous tool calls block backend event loop during StarRocks socket reads",
+          "url": "https://github.com/Datus-ai/Datus-agent/issues/1529",
+          "state": "closed",
+          "comments": 0,
+          "reactions": 0,
+          "created_at": "2026-10-22T02:15:46Z",
+          "updated_at": "2026-10-23T06:41:59Z",
+          "labels": []
+        }
+      ],
+      "issue_error": "",
+      "radar": {
+        "score": 75.0,
+        "stage": "probe-this-week",
+        "angle": "Build an MCP registry, security checker, config generator, or compatibility layer.",
+        "scores": {
+          "heat": 24.7,
+          "freshness": 9.9,
+          "velocity_proxy": 18.0,
+          "issue_demand": 3.0,
+          "extensibility": 8.0,
+          "creator_fit": 0.0,
+          "open_surface": 6.5,
+          "novelty": 5.0,
+          "saturation_penalty": 0.0
+        },
+        "signals": [
+          "large existing audience",
+          "recently active",
+          "strong stars-per-day proxy",
+          "extension-shaped ecosystem"
+        ],
+        "top_issues": [
+          {
+            "number": 1529,
+            "title": "fix(mcp): synchronous tool calls block backend event loop during StarRocks socket reads",
+            "url": "https://github.com/Datus-ai/Datus-agent/issues/1529",
+            "state": "closed",
+            "comments": 0,
+            "reactions": 0,
+            "created_at": "2026-10-22T02:15:46Z",
+            "updated_at": "2026-10-23T06:41:59Z",
+            "labels": []
+          }
+        ]
+      }
+    },
+    {
+      "repo": {
         "full_name": "tigicion/dao-code",
         "name": "dao-code",
         "owner": "tigicion",
@@ -3589,12 +3577,12 @@
       "issues": [],
       "issue_error": "",
       "radar": {
-        "score": 74.2,
+        "score": 74.1,
         "stage": "probe-this-week",
         "angle": "Build a cross-agent skill index, installer, or quality benchmark around this ecosystem.",
         "scores": {
           "heat": 20.3,
-          "freshness": 7.5,
+          "freshness": 7.4,
           "velocity_proxy": 18.0,
           "issue_demand": 0.0,
           "extensibility": 14.0,
@@ -3620,9 +3608,9 @@
         "owner": "Helvesec",
         "description": "Universal Rust multiplexer with a typed SDK — drive any CLI or TUI app from code. Native on Linux, macOS, and Windows.",
         "url": "https://github.com/Helvesec/rmux",
-        "stars": 2705,
+        "stars": 2707,
         "forks": 170,
-        "open_issues": 52,
+        "open_issues": 51,
         "language": "Rust",
         "topics": [
           "agent",
@@ -3640,7 +3628,7 @@
           "windows"
         ],
         "created_at": "2026-05-15T15:22:10Z",
-        "pushed_at": "2026-11-27T09:14:54Z",
+        "pushed_at": "2026-11-27T23:17:44Z",
         "query_label": "agent-native-cli"
       },
       "issues": [
@@ -3653,6 +3641,17 @@
           "reactions": 0,
           "created_at": "2026-10-26T10:19:17Z",
           "updated_at": "2026-11-03T01:50:34Z",
+          "labels": []
+        },
+        {
+          "number": 264,
+          "title": "Abandoned?",
+          "url": "https://github.com/Helvesec/rmux/issues/264",
+          "state": "closed",
+          "comments": 1,
+          "reactions": 0,
+          "created_at": "2026-11-26T01:38:38Z",
+          "updated_at": "2026-11-27T13:47:46Z",
           "labels": []
         },
         {
@@ -3675,17 +3674,6 @@
           "reactions": 0,
           "created_at": "2026-11-01T02:39:02Z",
           "updated_at": "2026-11-01T02:39:02Z",
-          "labels": []
-        },
-        {
-          "number": 239,
-          "title": "`paste-buffer` sends each carriage return as the two characters `\\r`",
-          "url": "https://github.com/Helvesec/rmux/issues/239",
-          "state": "open",
-          "comments": 0,
-          "reactions": 0,
-          "created_at": "2026-10-26T10:19:19Z",
-          "updated_at": "2026-10-26T10:19:19Z",
           "labels": []
         }
       ],
@@ -3721,8 +3709,8 @@
         "owner": "elder-plinius",
         "description": "LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐",
         "url": "https://github.com/elder-plinius/CL4R1T4S",
-        "stars": 53864,
-        "forks": 11244,
+        "stars": 53874,
+        "forks": 11242,
         "open_issues": 123,
         "language": "",
         "topics": [
@@ -3777,12 +3765,12 @@
       ],
       "issue_error": "",
       "radar": {
-        "score": 73.6,
+        "score": 73.5,
         "stage": "probe-this-week",
         "angle": "Build a cross-agent skill index, installer, or quality benchmark around this ecosystem.",
         "scores": {
           "heat": 25.0,
-          "freshness": 8.6,
+          "freshness": 8.5,
           "velocity_proxy": 18.0,
           "issue_demand": 3.0,
           "extensibility": 12.0,
@@ -3880,12 +3868,12 @@
       ],
       "issue_error": "",
       "radar": {
-        "score": 73.5,
+        "score": 73.4,
         "stage": "probe-this-week",
         "angle": "Build an MCP registry, security checker, config generator, or compatibility layer.",
         "scores": {
           "heat": 21.8,
-          "freshness": 9.4,
+          "freshness": 9.3,
           "velocity_proxy": 18.0,
           "issue_demand": 3.0,
           "extensibility": 14.0,
@@ -3925,9 +3913,9 @@
         "owner": "morluto",
         "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
         "url": "https://github.com/morluto/rea",
-        "stars": 480441,
-        "forks": 116724,
-        "open_issues": 1123,
+        "stars": 481585,
+        "forks": 116940,
+        "open_issues": 1097,
         "language": "TypeScript",
         "topics": [
           "agent-skills",
@@ -3952,7 +3940,7 @@
           "typescript"
         ],
         "created_at": "2026-04-14T00:51:32Z",
-        "pushed_at": "2026-11-27T10:57:42Z",
+        "pushed_at": "2026-11-28T10:04:39Z",
         "query_label": "agent-native-cli"
       },
       "issues": [
@@ -4052,9 +4040,9 @@
         "owner": "JuliusBrussee",
         "description": "why use many token when few token do trick. Skill + local proxy for coding agents: shorter answers, smaller tool output, every original recoverable.",
         "url": "https://github.com/JuliusBrussee/caveman",
-        "stars": 123197,
-        "forks": 7210,
-        "open_issues": 117,
+        "stars": 123408,
+        "forks": 7221,
+        "open_issues": 120,
         "language": "Go",
         "topics": [
           "ai",
@@ -4069,7 +4057,7 @@
           "tokens"
         ],
         "created_at": "2026-04-04T10:03:00Z",
-        "pushed_at": "2026-11-27T05:38:24Z",
+        "pushed_at": "2026-11-28T05:11:31Z",
         "query_label": "agent-skills"
       },
       "issues": [
@@ -4152,8 +4140,8 @@
         "owner": "jeecgboot",
         "description": "一款免费开源的 AI 低代码平台，也是 AI 时代构建复杂业务系统的开源基座！权限、多租户、工作流、报表、大屏、AI 知识库等通用能力开箱即用，AI 只需生成业务差异部分。AI Skills 一句话生成完整系统——建表、前后端代码、菜单权限、BPM 流程、表单、报表、大屏全自动。内置 AI 应用平台（聊天、知识库、流程编排、MCP），兼容主流大模型",
         "url": "https://github.com/jeecgboot/JeecgBoot",
-        "stars": 48647,
-        "forks": 16215,
+        "stars": 48657,
+        "forks": 16213,
         "open_issues": 9,
         "language": "Java",
         "topics": [
@@ -4238,12 +4226,12 @@
       ],
       "issue_error": "",
       "radar": {
-        "score": 71.8,
+        "score": 71.7,
         "stage": "probe-this-week",
         "angle": "Build a cross-agent skill index, installer, or quality benchmark around this ecosystem.",
         "scores": {
           "heat": 25.0,
-          "freshness": 8.8,
+          "freshness": 8.7,
           "velocity_proxy": 18.0,
           "issue_demand": 0.0,
           "extensibility": 14.0,
@@ -4268,7 +4256,7 @@
         "owner": "dontriskit",
         "description": "🧠 Curated collection of system prompts for top AI tools. Perfect for AI agent builders and prompt engineers. Incuding: ChatGPT, Claude, Perplexity, Manus, Claude-Code, Loveable, v0, Grok, same new, windsurf, notion, and MetaAI. ",
         "url": "https://github.com/dontriskit/awesome-ai-system-prompts",
-        "stars": 6308,
+        "stars": 6311,
         "forks": 913,
         "open_issues": 31,
         "language": "TypeScript",
@@ -4292,12 +4280,12 @@
       ],
       "issue_error": "",
       "radar": {
-        "score": 71.2,
+        "score": 71.1,
         "stage": "probe-this-week",
         "angle": "Build an MCP registry, security checker, config generator, or compatibility layer.",
         "scores": {
           "heat": 25.0,
-          "freshness": 5.2,
+          "freshness": 5.1,
           "velocity_proxy": 18.0,
           "issue_demand": 3.0,
           "extensibility": 9.0,
@@ -4333,8 +4321,8 @@
         "owner": "0x4m4",
         "description": "HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities.",
         "url": "https://github.com/0x4m4/hexstrike-ai",
-        "stars": 13952,
-        "forks": 2867,
+        "stars": 13972,
+        "forks": 2876,
         "open_issues": 134,
         "language": "Python",
         "topics": [
@@ -4411,12 +4399,12 @@
       ],
       "issue_error": "",
       "radar": {
-        "score": 70.4,
+        "score": 70.3,
         "stage": "probe-this-week",
         "angle": "Build an MCP registry, security checker, config generator, or compatibility layer.",
         "scores": {
           "heat": 25.0,
-          "freshness": 0.4,
+          "freshness": 0.3,
           "velocity_proxy": 18.0,
           "issue_demand": 0.0,
           "extensibility": 12.0,
@@ -4440,7 +4428,7 @@
         "owner": "Meirtz",
         "description": " 🔥 Comprehensive survey on Context Engineering: from prompt engineering to production-grade AI systems. hundreds of papers, frameworks, and  implementation guides for LLMs and AI agents.",
         "url": "https://github.com/Meirtz/Awesome-Context-Engineering",
-        "stars": 3340,
+        "stars": 3344,
         "forks": 300,
         "open_issues": 86,
         "language": "",
@@ -4525,9 +4513,9 @@
         "owner": "farion1231",
         "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io",
         "url": "https://github.com/farion1231/cc-switch",
-        "stars": 157591,
-        "forks": 10297,
-        "open_issues": 774,
+        "stars": 157745,
+        "forks": 10310,
+        "open_issues": 770,
         "language": "Rust",
         "topics": [
           "ai-tools",
@@ -4551,7 +4539,7 @@
           "wsl-support"
         ],
         "created_at": "2025-08-04T14:16:16Z",
-        "pushed_at": "2026-11-27T08:56:40Z",
+        "pushed_at": "2026-11-27T15:31:11Z",
         "query_label": "claude-code-skills"
       },
       "issues": [
@@ -4639,7 +4627,7 @@
         "owner": "NeoLabHQ",
         "description": "Hand-crafted Claude Code Skills focused on improving agent results quality. Compatible with OpenCode, Cursor, Antigravity, Gemini CLI, and others. Includes CodeRabbit open-source alternative.",
         "url": "https://github.com/NeoLabHQ/context-engineering-kit",
-        "stars": 1858,
+        "stars": 1863,
         "forks": 168,
         "open_issues": 10,
         "language": "TypeScript",
@@ -4662,12 +4650,12 @@
       "issues": [],
       "issue_error": "",
       "radar": {
-        "score": 67.6,
+        "score": 67.5,
         "stage": "probe-this-week",
         "angle": "Build a cross-agent skill index, installer, or quality benchmark around this ecosystem.",
         "scores": {
           "heat": 24.1,
-          "freshness": 2.3,
+          "freshness": 2.2,
           "velocity_proxy": 18.0,
           "issue_demand": 0.0,
           "extensibility": 14.0,
@@ -4692,7 +4680,7 @@
         "owner": "wquguru",
         "description": "Harness engineering in two books: constraints, query loops, context governance and multi-agent verification in Claude Code and Codex. harness-books.agentway.dev",
         "url": "https://github.com/wquguru/harness-books",
-        "stars": 3258,
+        "stars": 3261,
         "forks": 386,
         "open_issues": 6,
         "language": "Python",
@@ -4757,12 +4745,12 @@
       "issues": [],
       "issue_error": "",
       "radar": {
-        "score": 65.3,
+        "score": 65.2,
         "stage": "probe-this-week",
         "angle": "Build a local context, memory, or compression add-on for coding agents.",
         "scores": {
           "heat": 25.0,
-          "freshness": 6.5,
+          "freshness": 6.4,
           "velocity_proxy": 18.0,
           "issue_demand": 0.0,
           "extensibility": 8.0,
@@ -4857,12 +4845,12 @@
       "issues": [],
       "issue_error": "",
       "radar": {
-        "score": 62.9,
+        "score": 62.8,
         "stage": "content-first",
         "angle": "Build a narrow companion tool that solves one recurring issue outside the upstream roadmap.",
         "scores": {
           "heat": 23.3,
-          "freshness": 6.4,
+          "freshness": 6.3,
           "velocity_proxy": 18.0,
           "issue_demand": 0.0,
           "extensibility": 9.0,
@@ -4887,8 +4875,8 @@
         "owner": "x1xhlol",
         "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
         "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-        "stars": 144898,
-        "forks": 34622,
+        "stars": 144904,
+        "forks": 34618,
         "open_issues": 161,
         "language": "",
         "topics": [
@@ -4985,7 +4973,7 @@
         "description": "Deep dive into Claude Code internals — architecture, agent loop, context engineering, and more. / 深入解析 Claude Code 源码：架构、Agent 循环、上下文工程、工具系统等",
         "url": "https://github.com/Windy3f3f3f3f/how-claude-code-works",
         "stars": 3850,
-        "forks": 722,
+        "forks": 723,
         "open_issues": 2,
         "language": "",
         "topics": [
@@ -5007,12 +4995,12 @@
       "issues": [],
       "issue_error": "",
       "radar": {
-        "score": 59.4,
+        "score": 59.3,
         "stage": "content-first",
         "angle": "Build a local context, memory, or compression add-on for coding agents.",
         "scores": {
           "heat": 25.0,
-          "freshness": 1.5,
+          "freshness": 1.4,
           "velocity_proxy": 18.0,
           "issue_demand": 0.0,
           "extensibility": 5.0,
@@ -5037,9 +5025,9 @@
         "owner": "multica-ai",
         "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
         "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-        "stars": 236015,
-        "forks": 23408,
-        "open_issues": 138,
+        "stars": 236406,
+        "forks": 23450,
+        "open_issues": 139,
         "language": "",
         "topics": [],
         "created_at": "2026-01-27T03:53:13Z",
